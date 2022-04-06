@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-netlify-boilerplate",
-  "version": "1.0.3",
-  "description": "A boilerplate for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
+  "name": "11ty-netlify-website",
+  "version": "1.0.0",
+  "description": "Loungefest 2022 website with 11ty and netlify",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
@@ -10,18 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate"
+    "url": "https://github.com/loungefest/11ty-netlify-website"
   },
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "url": "https://www.danurbanowicz.com/"
+    "name": "Oscar Farg",
+    "email": "oscar@loungefest.nl"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate/issues"
-  },
-  "homepage": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate",
+  "homepage": "https://www.loungefest.nl",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
     "luxon": "^2.3.0",
