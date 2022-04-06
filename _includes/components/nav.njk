@@ -1,10 +1,110 @@
-<nav>
-  {% set navPages = collections.all | eleventyNavigation %}
-  <ul>
-  {%- for entry in navPages %}
-    <li>
-      <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
-    </li>
-  {%- endfor %}
-  </ul>
-</nav>
+{#<nav>#}
+{#  {% set navPages = collections.all | eleventyNavigation %}#}
+{#  <ul>#}
+{#  {%- for entry in navPages %}#}
+{#    <li>#}
+{#      <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>#}
+{#    </li>#}
+{#  {%- endfor %}#}
+{#  </ul>#}
+{#</nav>#}
+
+<!-- Start Navbar Area -->
+<div class="navbar-area">
+  <div class="main-responsive-nav">
+    <div class="container">
+      <div class="main-responsive-menu">
+        <div class="logo">
+          <a href="index.html">
+            <img src="static/img/logo.png" alt="logo">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="main-navbar">
+    <div class="container">
+      <nav class="navbar navbar-expand-md navbar-light">
+        <a class="navbar-brand" href="index.html">
+          <img src="static/img/logo.png" alt="logo">
+        </a>
+
+        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+          <ul class="navbar-nav m-auto">
+            <li class="nav-item">
+              <a href="#" class="nav-link active">Nieuws</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="about.html" class="nav-link">Programma</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="#" class="nav-link">Ons Verhaal</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="#" class="nav-link">Informatie</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="#" class="nav-link">Winkel</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="contact.html" class="nav-link">Contact</a>
+            </li>
+          </ul>
+
+          <div class="others-options d-flex align-items-center">
+            <div class="option-item">
+              <div class="cart-btn">
+                <a href="cart.html">
+                  <i class='flaticon-shopping-cart'></i>
+                  <span>2</span>
+                </a>
+              </div>
+            </div>
+
+            <div class="option-item">
+              <a href="pricing.html" class="default-btn">Koop je kaartje<span></span></a>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+
+  <div class="others-option-for-responsive">
+    <div class="container">
+      <div class="dot-menu">
+        <div class="inner">
+          <div class="circle circle-one"></div>
+          <div class="circle circle-two"></div>
+          <div class="circle circle-three"></div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="option-inner">
+          <div class="others-options d-flex align-items-center">
+            <div class="option-item">
+              <div class="cart-btn">
+                <a href="cart.html">
+                  <i class='flaticon-shopping-cart'></i>
+                  <span>2</span>
+                </a>
+              </div>
+            </div>
+
+            <div class="option-item">
+              <a href="pricing.html" class="default-btn">Koop je kaartje<span></span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Navbar Area -->

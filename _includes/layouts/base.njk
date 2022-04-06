@@ -4,20 +4,60 @@
 	{% include "components/head.njk" %}
 
 	<body>
+		<!-- Start Preloader Area -->
+		<div class="preloader">
+			<div class="loader">
+				<div class="shadow"></div>
+				<div class="box"></div>
+			</div>
+		</div>
+		<!-- End Preloader Area -->
 
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
-		</header>
+		{% include "components/nav.njk" %}
 
-		<main>
-			{{ layoutContent | safe }}
-		</main>
+{#		<main>#}
+{#			{{ layoutContent | safe }}#}
+{#		</main>#}
+
+		<!-- Start Main Banner Area -->
+		<div class="main-banner-area">
+			<div class="container min-vh-100">
+				<div class="row align-items-center">
+					<!--                    <div class="col-lg-7 col-md-12">-->
+					<div class="main-slides-content">
+						<p class="sub-title">7 & 8 juli 2022</p>
+						<h1>Loungefest</h1>
+						<p>Wie niet komt is gek!</p>
+
+						<div class="slides-btn">
+							<a href="pricing.html" class="default-btn">Koop je kaartje<span></span></a>
+
+							<a href="https://www.youtube.com/watch?v=kfPbySw8_z4?autoplay=1" class="optional-btn popup-youtube"><i class="flaticon-play-button-arrowhead"></i> Proef de sfeer!</a>
+						</div>
+					</div>
+					<!--                    </div>-->
+
+					<!-- <div class="col-lg-5 col-md-12">
+                        <div class="main-banner-image wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+                            <img src="assets/images/main-banner/banner-1.png" alt="image">
+                        </div>
+                    </div> -->
+				</div>
+			</div>
+		</div>
+		<!-- End Main Banner Area -->
 
 		{% include "components/footer.njk" %}
 
+		{% include "components/copyright.njk" %}
+
+		<!-- Start Go Top Area -->
+		<div class="go-top">
+			<i class='bx bx-chevron-up'></i>
+		</div>
+		<!-- End Go Top Area -->
+
+		{% include "components/scripts.njk" %}
 	</body>
 
 </html>

@@ -865,7 +865,7 @@ Main Slides Area CSS
 Main Banner Area CSS
 =================================================*/
 .main-banner-area {
-  background-image: url(../../assets/images/main-banner/banner-bg.jpg);
+  background-image: url(../../../static/img/banner-bg.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;

@@ -1,16 +1,36 @@
 <head>
-  <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://identity.netlify.com">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ renderData.title or title or metadata.title }}</title>
-  <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
-  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  {% set css %}
-    {% include "assets/css/inline.css" %}
-  {% endset %}
-  <style>{{ css | cssmin | safe }}</style>
-  {% set js %}
-    {% include "assets/js/inline.js" %}
-  {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="_includes/assets/css/bootstrap.min.css">
+    <!-- Animate CSS -->
+    <link rel="stylesheet" href="_includes/assets/css/animate.min.css">
+    <!-- Meanmenu CSS -->
+    <link rel="stylesheet" href="_includes/assets/css/meanmenu.css">
+    <!-- Boxicons CSS -->
+    <link rel="stylesheet" href="_includes/assets/css/boxicons.min.css">
+    <!-- Flaticon CSS -->
+    <link rel="stylesheet" href="_includes/assets/css/flaticon.css">
+    <!-- Odometer CSS -->
+    <link rel="stylesheet" href="_includes/assets/css/odometer.min.css">
+    <!-- Slick CSS -->
+    <link rel="stylesheet" href="_includes/assets/css/slick.min.css">
+    <!-- Carousel CSS -->
+    <link rel="stylesheet" href="_includes/assets/css/owl.carousel.min.css">
+    <!-- Carousel Default CSS -->
+    <link rel="stylesheet" href="_includes/assets/css/owl.theme.default.min.css">
+    <!-- Magnific Popup CSS -->
+    <link rel="stylesheet" href="_includes/assets/css/magnific-popup.min.css">
+    <!-- Style CSS -->
+    <link rel="stylesheet" href="_includes/assets/css/style.css">
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="_includes/assets/css/responsive.css">
+
+    <title>{{ metadata.title }}</title>
+
+    <link rel="icon" type="image/png" href="_includes/assets/images/favicon.png">
 </head>
