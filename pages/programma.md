@@ -5,6 +5,6 @@ metaDescription: Artiesten overzicht
 date: 2022-05-21
 permalink: /programma/index.html
 eleventyNavigation:
-key: Artiesten
-order: 1
+  key: Programma
+  order: 1
 ---
