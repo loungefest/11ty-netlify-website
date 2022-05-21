@@ -5683,10 +5683,10 @@ Copy Right Area CSS
 .copyright-area {
   padding-top: 35px;
   padding-bottom: 35px;
-  background-color: #172b3b;
+  background-color: #ffcd31;
 }
 .copyright-area .copyright-area-content p {
-  color: #e5e0de;
+  color: #393333;
 }
 .copyright-area .copyright-area-content p a {
   display: inline-block;
@@ -5694,7 +5694,10 @@ Copy Right Area CSS
   color: #ffcd31;
 }
 .copyright-area .copyright-area-content p a:hover {
-  color: #e5e0de;
+  color: #4a9142;
+}
+.copyright-area .copyright-area-content .left-column ul {
+  text-align: left;
 }
 .copyright-area .copyright-area-content ul {
   padding-left: 0;
@@ -5710,10 +5713,10 @@ Copy Right Area CSS
 }
 .copyright-area .copyright-area-content ul li a {
   display: inline-block;
-  color: #e5e0de;
+  color: #393333;
 }
 .copyright-area .copyright-area-content ul li a:hover {
-  color: #ffcd31;
+  color: #4a9142;
 }
 .copyright-area .copyright-area-content ul li::before {
   content: "";
@@ -5723,7 +5726,7 @@ Copy Right Area CSS
   left: 0;
   width: 10px;
   height: 10px;
-  background: #8b959d;
+  background: #4a9142;
   border-radius: 50px;
 }
 .copyright-area .copyright-area-content ul li:last-child {
