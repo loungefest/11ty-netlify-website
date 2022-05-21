@@ -1,5 +1,5 @@
 ---
-title: Loungefest
+title: LOUNGEFEST
 loungefest_date: 8 & 9 juli
 youtube: https://www.youtube.com/watch?v=kfPbySw8_z4?autoplay=1
 button_link: kaarten
