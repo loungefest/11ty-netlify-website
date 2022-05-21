@@ -2127,6 +2127,7 @@ Speakers Area CSS
     }
 }
 .single-speakers-box {
+    display: block;
     margin-bottom: 25px;
     background-color: $white-color;
     box-shadow: 0 0 1.25rem rgba(108, 118, 134, .1);
@@ -2155,11 +2156,10 @@ Speakers Area CSS
                 font-size: 24px;
                 margin-bottom: 10px;
 
-                a {
-                    color: $optional-color;
-                    transition: $transition;
-                    text-shadow: 2px 2px $black-color;
-                }
+                color: $optional-color;
+                transition: $transition;
+                text-shadow: 2px 2px $black-color;
+
             }
             b {
                 font-size: $font-size;
@@ -2313,15 +2313,18 @@ Speakers Area CSS
         }
     }
     &:hover {
-        .speakers-content {
-            .top-content {
-                h3 {
-                    a {
-                        color: $main-color;
-                    }
-                }
-            }
-        }
+        transform: perspective(1px) scale3d(1.031, 1.031, 1.031) translateZ(0);
+        transition: all 0.3s;
+        overflow: hidden;
+        //.speakers-content {
+        //    .top-content {
+        //        h3 {
+        //            a {
+        //                color: $main-color;
+        //            }
+        //        }
+        //    }
+        //}
     }
 }
 
