@@ -6451,11 +6451,11 @@ Copy Right Area CSS
 .copyright-area {
     padding-top: 35px;
     padding-bottom: 35px;
-    background-color: #172b3b;
+    background-color: $gras-geel;
 
     .copyright-area-content {
         p {
-            color: $white-color;
+            color: $ultra-zwart;
 
             a {
                 display: inline-block;
@@ -6463,10 +6463,17 @@ Copy Right Area CSS
                 color: $main-color;
 
                 &:hover {
-                    color: $white-color;
+                    color: $como-groen;
                 }
             }
         }
+
+        .left-column {
+            ul {
+                text-align: left;
+            }
+        }
+
         ul {
             padding-left: 0;
             margin-bottom: 0;
@@ -6481,10 +6488,10 @@ Copy Right Area CSS
 
                 a {
                     display: inline-block;
-                    color: $white-color;
+                    color: $ultra-zwart;
 
                     &:hover {
-                        color: $main-color;
+                        color: $como-groen;
                     }
                 }
                 &::before {
@@ -6495,7 +6502,7 @@ Copy Right Area CSS
                     left: 0;
                     width: 10px;
                     height: 10px;
-                    background: #8b959d;
+                    background: $como-groen;
                     border-radius: 50px;
                 }
                 &:last-child {
