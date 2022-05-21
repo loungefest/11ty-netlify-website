@@ -1,6 +1,6 @@
 ---
 name: "CARI CARI "
-genra: "\tAustrian Indie Rock"
+genra: "\tAustrian indie rock"
 youtube: https://www.youtube.com/watch?v=mJ-Fdv2Lv7Q&ab_channel=3voor12
 ---
 Margaritas in the desert, sex under the open sky and long night drives by the sea. Cari Cari is Lana del Rey meets Queens Of The Stone Age: Worry-free days, red sunsets and the indian summer blues.
@@ -9,4 +9,4 @@ After the duo’s single “Summer Sun” became one of the alternative radio fa
 
 Cari Cari is Louise Yamamoto (Vocals, Drums & Didgeridoo) and Alexander Koeck (Vocals, Guitars). The duo lived in London, Hamburg and Madrid before releasing their debut album “ANAANA” in 2018. They were called “the lovechild of The Kills and The XX” (IndieShuffle, US) “with the raw grit of a Cat Power record” (BestBefore, AUS) and “a pinch of Ennio Morricone” (FM4, AUT). Their music was used in multiple Hollywood productions such as “Shameless” or “The Magicians”.
 
-- Rolling Stone Magazine
+*Rolling Stone Magazine*
