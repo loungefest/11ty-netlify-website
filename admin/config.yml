@@ -62,7 +62,7 @@ collections:
   - name: "homepage"
     label: "Thuispagina"
     folder: "pages/homepage"
-    create: true
+    create: false
     slug: "{{slug}}"
     fields:
       - { label: "Titel", name: "title", widget: "string" }
