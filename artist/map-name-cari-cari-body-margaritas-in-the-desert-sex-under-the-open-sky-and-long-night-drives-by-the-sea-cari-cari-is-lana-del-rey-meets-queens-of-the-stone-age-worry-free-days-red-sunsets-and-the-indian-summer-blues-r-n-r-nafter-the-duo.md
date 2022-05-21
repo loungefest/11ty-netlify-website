@@ -1,6 +1,6 @@
 ---
 name: "CARI CARI "
-genra: "\tAustrian indie rock"
+genre: "\tAustrian indie rock"
 youtube: https://www.youtube.com/watch?v=mJ-Fdv2Lv7Q&ab_channel=3voor12
 ---
 Margaritas in the desert, sex under the open sky and long night drives by the sea. Cari Cari is Lana del Rey meets Queens Of The Stone Age: Worry-free days, red sunsets and the indian summer blues.

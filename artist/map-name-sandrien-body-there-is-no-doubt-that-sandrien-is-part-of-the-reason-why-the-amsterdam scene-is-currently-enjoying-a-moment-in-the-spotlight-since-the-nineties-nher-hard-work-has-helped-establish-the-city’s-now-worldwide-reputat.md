@@ -1,6 +1,6 @@
 ---
 name: SANDRIEN
-genra: Techno
+genre: Techno
 youtube: https://www.youtube.com/watch?v=N7MlYfi_yi4&ab_channel=BoilerRoom
 ---
 There is no doubt that Sandrien is part of the reason why the Amsterdam scene is currently enjoying a moment in the spotlight. Since the nineties,\
