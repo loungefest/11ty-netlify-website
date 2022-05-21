@@ -85,6 +85,34 @@ $paragraph-color: $kenny-blauw;
 $font-size: 16px;
 $transition: .6s;
 
+.color-stef-magenta {
+    color: $stef-magenta !important
+
+}
+.color-gras-geel {
+    color: $gras-geel !important
+}
+
+.color-baby-oranje {
+    color: $baby-oranje !important;
+}
+
+.color-kenny-blauw {
+    color: $kenny-blauw !important;
+}
+
+.color-como-groen {
+    color: $como-groen !important;
+}
+
+.color-ultra-zwart {
+    color: $ultra-zwart !important;
+}
+
+.color-partytent-wit {
+    color: $partytent-wit !important;
+}
+
 body {
     padding: 0;
     margin: 0;
@@ -3673,6 +3701,16 @@ Page Banner CSS
     padding-top: 120px;
     padding-bottom: 120px;
 }
+
+.artist-banner-area {
+    background-image: url(/static/img/artist-banner.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
 .page-banner-content {
     text-align: center;
 
@@ -3681,6 +3719,7 @@ Page Banner CSS
         margin-bottom: 20px;
         font-size: 38px;
     }
+
     .pages-list {
         text-align: center;
         padding-left: 0;
