@@ -59,3 +59,22 @@ collections:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "homepage"
+    label: "Thuispagina"
+    folder: "pages/homepage"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Subtitel", name: "subtitle", widget: "string" }
+      - { label: "Loungefest Datum", name: "loungefest_date", widget: "string" }
+      - { label: "Youtube link", name: "youtube", widget: "string" }
+      - { label: "Knop tekst", name: "button_title", widget: "string" }
+      - { label: "Knop link", name: "button_link", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - label: "Navigation" # https://www.11ty.dev/docs/plugins/navigation/
+        name: "eleventyNavigation"
+        widget: "object"
+        fields:
+          - { label: "Key", name: "key", widget: "string" }
+          - { label: "Order", name: "order", widget: "number", default: 0 }
