@@ -1,11 +1,9 @@
 ---
 layout: layouts/base.njk
-section: blog
-permalink: /blog/index.html
+section: nieuws
 ---
-<h1>{{ title }}</h1>
 
 {{ layoutContent | safe }}
 
-{% set postslist = collections.post %}
+{% set nieuwslist = collections.nieuws %}
 {% include "components/postslist.njk" %}

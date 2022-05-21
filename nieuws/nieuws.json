@@ -1,0 +1,8 @@
+{
+  "layout": "layouts/nieuws-items.njk",
+  "permalink": "nieuws/{{ title | slug }}/index.html",
+  "author": "Anonymous",
+  "tags": [
+    "nieuws"
+  ]
+}

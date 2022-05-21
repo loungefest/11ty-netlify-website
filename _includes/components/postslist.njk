@@ -1,35 +1,43 @@
 <section>
-	{% for post in postslist | reverse %}
-		<article{% if post.url == url %} data-current="current item"{% endif %}>
-			<h3>
-				<a href="{{ post.url | url }}">
-					{% if post.data.title %}
-						{{ post.data.title }}
-					{% else %}
-						Untitled
-					{% endif %}
-				</a>
-			</h3>
-			{% if post.data.summary %}
-				<p>
-					{{ post.data.summary }}
-				</p>
-			{% endif %}
-			<p>
-				<time datetime="{{ post.date | machineDate }}">
-					<small>{{ post.date | readableDate }} by <a href="/authors/{{ post.data.author | slug }}/">{{ post.data.author }}</a></small>
-				</time>
-			</p>
-			{% if post.data.tags %}
-				<p>
-					{% for tag in post.data.tags %}
-		  			{%- if tag != "post" -%}
-		  				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-		  			<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-		  			{%- endif -%}
-					{% endfor %}
-				</p>
-			{% endif %}
-		</article>
-	{% endfor %}
+	<div class="blog-area pt-100 pb-100">
+		<div class="container">
+			<div class="section-title">
+				<h2>{{ title }}</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco.</p>
+			</div>
+
+			<div class="row justify-content-center">
+				{% for post in nieuwslist | reverse %}
+					<article class="col-lg-4 col-md-6">
+						<a href="{{ post.url | url }}">
+							<div class="single-blog">
+
+								<div class="blog-content">
+									<h3>
+											{% if post.data.title %}
+												{{ post.data.title }}
+											{% else %}
+												Untitled
+											{% endif %}
+									</h3>
+
+									{% if post.data.summary %}
+										<p>
+											{{ post.data.summary }}
+										</p>
+									{% endif %}
+
+									<ul class="blog-box-footer d-flex justify-content-between align-items-center">
+										<li>
+											<i class='bx bx-calendar'></i> {{ post.date | readableDate }}
+										</li>
+									</ul>
+								</div>
+							</div>
+						</a>
+					</article>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
 </section>

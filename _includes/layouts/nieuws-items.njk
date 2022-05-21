@@ -1,0 +1,26 @@
+---
+layout: layouts/base.njk
+section: nieuws-items
+---
+
+<!-- Start Blog Details Area -->
+<article class="blog-details-area ptb-100">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-12">
+        <div class="blog-details-desc">
+          <div class="article-content">
+
+            <h1>{{ title }}</h1>
+            <p>{{ layoutContent | safe }}</p>
+
+            <nav>
+              <a href="{{ '/nieuws/' | url }}">← Terug</a>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+<!-- End Blog Details Area -->
