@@ -1,6 +1,6 @@
 ---
 layout: layouts/info.njk
-title: Info
+title: Informatie
 metaDescription: test
 date: 2017-01-01
 permalink: /info/index.html

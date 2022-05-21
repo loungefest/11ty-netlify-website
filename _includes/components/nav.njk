@@ -26,46 +26,46 @@
   <div class="main-navbar">
     <div class="container">
       <nav class="navbar navbar-expand-md navbar-light">
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="/">
           <img src="/static/img/logo.png" alt="logo">
         </a>
 
         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
           <ul class="navbar-nav m-auto">
             <li class="nav-item">
-              <a href="#" class="nav-link active">Nieuws</a>
+              <a href="/nieuws" class="nav-link {% if '/nieuws' in page.url %}active{% endif %}">Nieuws</a>
             </li>
 
             <li class="nav-item">
-              <a href="about.html" class="nav-link">Programma</a>
+              <a href="/programma" class="nav-link {% if '/programma' in page.url %}active{% endif %}">Programma</a>
             </li>
 
             <li class="nav-item">
-              <a href="#" class="nav-link">Ons Verhaal</a>
+              <a href="/ons-verhaal" class="nav-link {% if '/ons-verhaal' in page.url %}active{% endif %}">Ons Verhaal</a>
             </li>
 
             <li class="nav-item">
-              <a href="#" class="nav-link">Informatie</a>
+              <a href="/info" class="nav-link {% if '/info' in page.url %}active{% endif %}">Informatie</a>
             </li>
 
             <li class="nav-item">
-              <a href="#" class="nav-link">Winkel</a>
+              <a href="/winkel" class="nav-link {% if '/winkel' in page.url %}active{% endif %}">Winkel</a>
             </li>
 
             <li class="nav-item">
-              <a href="contact.html" class="nav-link">Contact</a>
+              <a href="/contact" class="nav-link {% if '/contact' in page.url %}active{% endif %}">Contact</a>
             </li>
           </ul>
 
           <div class="others-options d-flex align-items-center">
-            <div class="option-item">
-              <div class="cart-btn">
-                <a href="cart.html">
-                  <i class='flaticon-shopping-cart'></i>
-                  <span>2</span>
-                </a>
-              </div>
-            </div>
+{#            <div class="option-item">#}
+{#              <div class="cart-btn">#}
+{#                <a href="cart.html">#}
+{#                  <i class='flaticon-shopping-cart'></i>#}
+{#                  <span>2</span>#}
+{#                </a>#}
+{#              </div>#}
+{#            </div>#}
 
             <div class="option-item">
               <a href="pricing.html" class="default-btn">Koop je kaartje<span></span></a>
