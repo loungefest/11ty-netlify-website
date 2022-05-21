@@ -1,6 +1,8 @@
 ---
 layout: layouts/home.njk
-title: Home
+title: Loungefest
+subtitle: Wie niet komt is gek!
+loungefest_date: 8 & 9 juli 2022
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
