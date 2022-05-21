@@ -57,7 +57,7 @@ collections:
     fields:
       - { label: "Naam", name: "name", widget: "string" }
       - { label: "Content", name: "body", widget: "markdown" }
-      - { label: "Genre", name: "genra", widget: "string" }
+      - { label: "Genre", name: "genre", widget: "string" }
       - { label: "Youtube", name: "youtube", widget: "string" }
   # Our pages e.g. About
   - name: "pages"
