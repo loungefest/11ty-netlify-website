@@ -1847,6 +1847,9 @@ Speakers Area CSS
   background-color: #e5e0de;
   box-shadow: 0 0 1.25rem rgba(108, 118, 134, 0.1);
   border-radius: 10px;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 40vh;
 }
 .single-speakers-box .speakers-image {
   padding-top: 10px;
@@ -1868,8 +1871,9 @@ Speakers Area CSS
   margin-bottom: 10px;
 }
 .single-speakers-box .speakers-content .top-content h3 a {
-  color: #393333;
+  color: #ed0f69;
   transition: 0.6s;
+  text-shadow: 2px 2px #393333;
 }
 .single-speakers-box .speakers-content .top-content b {
   font-size: 16px;
@@ -1953,7 +1957,6 @@ Speakers Area CSS
 }
 .single-speakers-box .speakers-content .bottom-content {
   position: relative;
-  border-top: 1px solid #ebebeb;
   padding: 25px 0 30px;
   margin-top: 32px;
 }
@@ -3241,7 +3244,7 @@ Video Area CSS
 Page Banner CSS
 =================================================*/
 .page-banner-area {
-  background-image: url(../../assets/images/page-banner-bg.jpg);
+  background-image: url(/static/img/page-banner-bg.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;

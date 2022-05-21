@@ -2103,6 +2103,9 @@ Speakers Area CSS
     background-color: $white-color;
     box-shadow: 0 0 1.25rem rgba(108, 118, 134, .1);
     border-radius: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 40vh;
 
     .speakers-image {
         padding-top: 10px;
@@ -2125,8 +2128,9 @@ Speakers Area CSS
                 margin-bottom: 10px;
 
                 a {
-                    color: $black-color;
+                    color: $optional-color;
                     transition: $transition;
+                    text-shadow: 2px 2px $black-color;
                 }
             }
             b {
@@ -2218,7 +2222,6 @@ Speakers Area CSS
         }
         .bottom-content {
             position: relative;
-            border-top: 1px solid #ebebeb;
             padding: 25px 0 30px;
             margin-top: 32px;
 
@@ -3663,7 +3666,7 @@ Video Area CSS
 Page Banner CSS
 =================================================*/
 .page-banner-area {
-    background-image: url(../../assets/images/page-banner-bg.jpg);
+    background-image: url(/static/img/page-banner-bg.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
