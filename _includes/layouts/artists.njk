@@ -18,10 +18,20 @@ section: artists
 <!-- Start Speakers Area -->
 <div class="speakers-area ptb-100">
     <div class="container">
+        <div class="pull-right">
+            <button class="btn btn-small btn-primary" data-toggle="portfilter" data-target="all">
+                Alles
+            </button>
+            <button class="btn btn-small btn-primary" data-toggle="portfilter" data-target="vrijdag">
+                Vrijdag
+            </button>
+            <button class="btn btn-small btn-primary" data-toggle="portfilter" data-target="zaterdag">
+                Zaterdag
+            </button>
+        </div>
         <div class="row justify-content-center">
-
             {% for artist in artistlist %}
-                <div class="col-lg-8 col-md-6">
+                <div class="col-lg-8 col-md-6" data-tag="{{ artist.data.day }}">
                     <a href="{{ artist.url }}" class="single-speakers-box" style="background-image: url('{{ artist.data.image }}');">
                         <div class="speakers-content">
                             <div class="top-content">
