@@ -111,6 +111,7 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
+      - { label: "Titel", name: "title", widget: "string" }
       - { label: "Vrijwilligers titel", name: "vrijwilligers-title", widget: "string" }
       - { label: "Vrijwilligers body", name: "vrijwilligers-body", widget: "markdown" }
       - { label: "Ploegen titel", name: "ploegen-title", widget: "string" }
