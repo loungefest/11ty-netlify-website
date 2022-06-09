@@ -1,8 +1,9 @@
 ---
 name: BB & THE BINKIE BOYS
 genre: Rock
-youtube: x
-thumbnail: /static/img/pyramids.jpg
+image: /static/img/pyramids.jpg
+day: vrijdag
+time: "18:00"
 ---
 <!--StartFragment-->
 

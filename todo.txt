@@ -1,0 +1,8 @@
+Todo:
+- Homepage dynamischer maken
+- Ticketverkoop integreren
+- Styling van Programma/artiesten overzicht afmaken
+- Artiesten detail pagina afmaken
+- Styling nieuws overzicht
+- Styling nieuws detail
+- Ons verhaal
