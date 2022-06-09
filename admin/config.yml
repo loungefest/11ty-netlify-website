@@ -105,3 +105,23 @@ collections:
         media_library:
           config:
             multiple: false
+  - name: "over-ons"
+    label: "Over Ons"
+    folder: "pages/over-ons"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Vrijwilligers titel", name: "vrijwilligers-title", widget: "string" }
+      - { label: "Vrijwilligers body", name: "vrijwilligers-body", widget: "markdown" }
+      - { label: "Ploegen titel", name: "ploegen-title", widget: "string" }
+      - { label: "Ploegen body", name: "ploegen-body", widget: "markdown" }
+      - { label: "Organisatie titel", name: "organisatie-title", widget: "string" }
+      - { label: "Organisatie body", name: "organisatie-body", widget: "markdown" }
+      - { label: "Edities titel", name: "edities-title", widget: "string" }
+      - { label: "Edities body", name: "edities-body", widget: "markdown" }
+      - label: "Navigation" # https://www.11ty.dev/docs/plugins/navigation/
+        name: "eleventyNavigation"
+        widget: "object"
+        fields:
+          - { label: "Key", name: "key", widget: "string" }
+          - { label: "Order", name: "order", widget: "number", default: 0 }
