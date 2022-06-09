@@ -1,7 +1,7 @@
 ---
 name: BORIS WERNER
 genre: House
-day: Zaterdag 9 juli
+day: zaterdag
 time: TBA
 youtube: https://www.youtube.com/watch?v=HH9ajzOWnaQ&ab_channel=Mixmag
 image: /static/img/stock_artiest_600x600.jpg
