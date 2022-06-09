@@ -1,5 +1,7 @@
 ---
-title: IT gang
+title: IT BENDE
 thumbnail: /static/img/itbende-small.jpg
 ---
-Test Ben komt ook naar loungeveest
+Username: Henk
+
+Password: Andre1982!
