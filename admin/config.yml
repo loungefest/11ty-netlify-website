@@ -66,6 +66,13 @@ collections:
       - { label: "Content", name: "body", widget: "markdown" }
       - { label: "Genre", name: "genre", widget: "string" }
       - { label: "Youtube", name: "youtube", widget: "string" }
+      - - label: "Plaatje"
+          name: "thumbnail"
+          widget: "image"
+          choose_url: true
+          media_library:
+            config:
+              multiple: false
   # Our pages e.g. About
   - name: "pages"
     label: "Page"
