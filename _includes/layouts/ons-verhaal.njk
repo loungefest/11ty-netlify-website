@@ -83,11 +83,11 @@ section: ons-verhaal
 
         <div class="expect-slides owl-carousel owl-theme">
             {% for ploeg in ploegenlist %}
-                <div class="expect-item">
+                <div class="expect-item" style="background-image: url('{{ ploeg.data.thumbnail }}'); background-repeat: no-repeat; background-position: center; background-size: cover;">
                     <h3>
-                        <a href="speakers-details.html">{{ ploeg.data.title }}</a>
+                        {{ ploeg.data.title }}
                     </h3>
-                    <p>{{ ploeg.data.body }}</p>
+                    <p>{{ ploeg.data.content | safe }}</p>
                 </div>
             {% endfor %}
         </div>

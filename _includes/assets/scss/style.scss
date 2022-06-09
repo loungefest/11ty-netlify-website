@@ -1818,6 +1818,8 @@ Expect Area CSS
     box-shadow: 0 0 1.25rem rgba(108, 118, 134, .1);
     border-radius: 10px;
     padding: 25px 22px;
+    position: relative;
+    z-index: 10;
 
     .icon {
         margin-bottom: 20px;
@@ -1839,10 +1841,27 @@ Expect Area CSS
         font-size: 24px;
         margin-bottom: 10px;
         line-height: 1.4;
+        color: $white-color;
+        z-index: 20;
 
         a {
             color: $black-color;
         }
+    }
+    p {
+        color: $white-color;
+        z-index: 20;
+    }
+    &:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: 10;
+        border-radius: 10px;
     }
     &:hover {
         .icon {
