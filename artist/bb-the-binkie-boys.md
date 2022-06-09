@@ -1,7 +1,7 @@
 ---
 name: BB & THE BINKIE BOYS
 genre: Rock
-day: Zaterdag 9 juli
+day: Zaterdag
 time: 17:30
 youtube: x
 image: /static/img/stock_artiest_600x600.jpg
