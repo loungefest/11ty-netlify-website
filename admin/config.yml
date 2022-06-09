@@ -65,9 +65,11 @@ collections:
       - { label: "Naam", name: "name", widget: "string" }
       - { label: "Content", name: "body", widget: "markdown" }
       - { label: "Genre", name: "genre", widget: "string" }
+      - { label: "Dag", name: "day", widget: "string" }
+      - { label: "Tijd", name: "time", widget: "string" }
       - { label: "Youtube", name: "youtube", widget: "string" }
       - label: "Plaatje"
-        name: "thumbnail"
+        name: "image"
         widget: "image"
         choose_url: true
         media_library:
