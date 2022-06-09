@@ -1,0 +1,7 @@
+{
+  "layout": "layouts/ploeg-detail.njk",
+  "permalink": "ploeg/{{ name | slug }}.html",
+  "tags": [
+    "ploeg"
+  ]
+}
