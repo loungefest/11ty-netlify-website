@@ -114,14 +114,14 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Titel", name: "title", widget: "string" }
-      - { label: "Vrijwilligers titel", name: "vrijwilligers-title", widget: "string" }
-      - { label: "Vrijwilligers body", name: "vrijwilligers-body", widget: "markdown" }
-      - { label: "Ploegen titel", name: "ploegen-title", widget: "string" }
-      - { label: "Ploegen body", name: "ploegen-body", widget: "markdown" }
-      - { label: "Organisatie titel", name: "organisatie-title", widget: "string" }
-      - { label: "Organisatie body", name: "organisatie-body", widget: "markdown" }
-      - { label: "Edities titel", name: "edities-title", widget: "string" }
-      - { label: "Edities body", name: "edities-body", widget: "markdown" }
+      - { label: "Vrijwilligers titel", name: "vrijwilligers_title", widget: "string" }
+      - { label: "Vrijwilligers body", name: "vrijwilligers_body", widget: "markdown" }
+      - { label: "Ploegen titel", name: "ploegen_title", widget: "string" }
+      - { label: "Ploegen body", name: "ploegen_body", widget: "markdown" }
+      - { label: "Organisatie titel", name: "organisatie_title", widget: "string" }
+      - { label: "Organisatie body", name: "organisatie_body", widget: "markdown" }
+      - { label: "Edities titel", name: "edities_title", widget: "string" }
+      - { label: "Edities body", name: "edities_body", widget: "markdown" }
       - label: "Navigation" # https://www.11ty.dev/docs/plugins/navigation/
         name: "eleventyNavigation"
         widget: "object"
