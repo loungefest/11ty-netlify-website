@@ -108,7 +108,7 @@ collections:
   - name: "over-ons"
     label: "Over Ons"
     folder: "pages/over-ons"
-    create: true
+    create: false
     slug: "{{slug}}"
     fields:
       - { label: "Titel", name: "title", widget: "string" }
