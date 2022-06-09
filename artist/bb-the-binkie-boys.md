@@ -2,6 +2,7 @@
 name: BB & THE BINKIE BOYS
 genre: Rock
 youtube: x
+thumbnail: /static/img/pyramids.jpg
 ---
 <!--StartFragment-->
 
