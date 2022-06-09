@@ -1,9 +1,10 @@
 ---
 name: BB & THE BINKIE BOYS
 genre: Rock
-image: /static/img/pyramids.jpg
-day: vrijdag
-time: "18:00"
+day: Zaterdag 9 juli
+time: 17:30
+youtube: x
+image: /static/img/stock_artiest_600x600.jpg
 ---
 <!--StartFragment-->
 
