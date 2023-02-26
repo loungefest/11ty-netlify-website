@@ -3,7 +3,7 @@ name: 4Touze Matroze
 genre: Nederlandstalige zeemansmuziek
 day: zaterdag
 time: N.t.b.
-youtube: https://www.youtube.com/watch?v=nohw41eBrz4&ab_channel=DWDD
+youtube: https://www.youtube.com/watch?v=nohw41eBrz4
 image: /static/img/4touze_matroze.jpg
 ---
 <!--StartFragment-->

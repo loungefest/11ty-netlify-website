@@ -32,7 +32,9 @@ section: page
                         {% if youtube %}
                         <li>
                             <i class='bx bxl-youtube'></i>
-                            <a href="{{ youtube }}" target="_blank">Bekijk op youtube</a>
+                            <a href="{{youtube}}" class="optional-btn popup-youtube"><i class="flaticon-play-button-arrowhead"></i> Bekijk op youtube!</a>
+
+                            {# <a href="{{ youtube }}" target="_blank">Bekijk op youtube</a> #}
                         </li>
                         {% endif %}
                         {% if day %}
