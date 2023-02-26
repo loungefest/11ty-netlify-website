@@ -7,7 +7,7 @@ section: artists
 <div class="artist-banner-area">
     <div class="container">
         <div class="page-banner-content">
-            <h2 class="color-kenny-blauw">Programma</h2>
+            <h2>Programma</h2>
         </div>
     </div>
 </div>
@@ -18,16 +18,18 @@ section: artists
 <!-- Start Speakers Area -->
 <div class="speakers-area ptb-100">
     <div class="container">
-        <div class="pull-right">
-            <button class="btn btn-small btn-primary" data-toggle="portfilter" data-target="all">
-                Alles
-            </button>
-            <button class="btn btn-small btn-primary" data-toggle="portfilter" data-target="vrijdag">
-                Vrijdag
-            </button>
-            <button class="btn btn-small btn-primary" data-toggle="portfilter" data-target="zaterdag">
-                Zaterdag
-            </button>
+        <div class="row justify-content-center mb-3">
+            <div class="col-lg-8">
+                <button class="btn btn-small btn-primary" data-toggle="portfilter" data-target="all">
+                    Alles
+                </button>
+                <button class="btn btn-small btn-primary" data-toggle="portfilter" data-target="vrijdag">
+                    Vrijdag
+                </button>
+                <button class="btn btn-small btn-primary" data-toggle="portfilter" data-target="zaterdag">
+                    Zaterdag
+                </button>
+            </div>
         </div>
         <div class="row justify-content-center">
             {% for artist in artistlist %}

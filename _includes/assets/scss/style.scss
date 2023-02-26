@@ -81,7 +81,7 @@ $main-color: $gras-geel;
 $optional-color: $stef-magenta;
 $white-color: $partytent-wit;
 $black-color: $ultra-zwart;
-$paragraph-color: $kenny-blauw;
+$paragraph-color: $ultra-zwart;
 $font-size: 16px;
 $transition: .6s;
 
@@ -118,17 +118,26 @@ body {
     margin: 0;
     font-family: $main-font-family;
     font-size: $font-size;
-    background-color: $partytent-wit;
+    background-color: #ffffff;
 }
 a {
     text-decoration: none;
     transition: $transition;
-    color: $black-color;
+    color: $kenny-blauw;
     display: inline-block;
 
     &:hover, &:focus {
         color: $main-color;
         text-decoration: none;
+    }
+}
+.btn-primary {
+    background-color: $kenny-blauw;
+    border-color: $kenny-blauw;
+
+    &:hover {
+        background-color: $stef-magenta;
+        border-color: $stef-magenta;
     }
 }
 button {
@@ -2154,7 +2163,8 @@ Speakers Area CSS
     border-radius: 10px;
     background-repeat: no-repeat;
     background-position: center;
-    min-height: 40vh;
+    min-height: 16rem;
+    background-size: cover;
 
     .speakers-image {
         padding-top: 10px;
@@ -2178,7 +2188,7 @@ Speakers Area CSS
 
                 color: $optional-color;
                 transition: $transition;
-                text-shadow: 2px 2px $black-color;
+                text-shadow: 1px 1px $black-color, -1px -1px $partytent-wit;
 
             }
             b {
@@ -3738,7 +3748,8 @@ Page Banner CSS
     text-align: center;
 
     h2 {
-        color: $white-color;
+        color: #ffffff;
+        text-shadow: 2px 2px $ultra-zwart;
         margin-bottom: 20px;
         font-size: 38px;
     }
