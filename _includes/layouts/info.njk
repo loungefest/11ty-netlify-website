@@ -6,13 +6,19 @@ section: info
 {{ layoutContent | safe }}
 {% set infolist = collections.info %}
 
+<!-- Start Page Banner -->
+<div class="info-banner-area">
+    <div class="container">
+        <div class="page-banner-content">
+            <h2>Informatie</h2>
+        </div>
+    </div>
+</div>
+<!-- End Page Banner -->
+
 <!-- Start FAQ Area -->
 <div class="faq-area ptb-100">
     <div class="container">
-        <div class="section-title">
-            <h2>{{ title }}</h2>
-        </div>
-
         <div class="faq-accordion">
             <div class="accordion" id="FaqAccordion">
                 {% for list in infolist | reverse %}

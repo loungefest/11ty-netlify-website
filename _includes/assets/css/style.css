@@ -791,17 +791,14 @@ Navbar Area CSS
   .main-responsive-nav .logo img {
     max-width: 130px !important;
   }
-
   .navbar-area {
     background-color: #ffcd31;
     padding-top: 15px;
     padding-bottom: 15px;
   }
-
   .main-navbar {
     display: none;
   }
-
   .others-option-for-responsive {
     display: block;
   }
@@ -3362,6 +3359,15 @@ Page Banner CSS
 
 .artist-banner-area {
   background-image: url(/static/img/artist-banner.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.info-banner-area {
+  background-image: url(/static/img/info_banner-01.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
