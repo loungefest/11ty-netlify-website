@@ -6598,11 +6598,22 @@ Copy Right Area CSS
             }
         }
 
+        .footer-items-ben {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
         ul {
             padding-left: 0;
             margin-bottom: 0;
             list-style-type: none;
             text-align: right;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
 
             li {
                 display: inline-block;
