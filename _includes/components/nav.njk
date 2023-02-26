@@ -1,23 +1,15 @@
-{#<nav>#}
-{#  {% set navPages = collections.all | eleventyNavigation %}#}
-{#  <ul>#}
-{#  {%- for entry in navPages %}#}
-{#    <li>#}
-{#      <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>#}
-{#    </li>#}
-{#  {%- endfor %}#}
-{#  </ul>#}
-{#</nav>#}
-
 <!-- Start Navbar Area -->
 <div class="navbar-area">
   <div class="main-responsive-nav">
     <div class="container">
-      <div class="main-responsive-menu">
-        <div class="logo">
-          <a href="index.html">
+      <div class="main-responsive-menu row">
+        <div class="logo col">
+          <a href="/">
             <img src="/static/img/logo.svg" alt="logo">
           </a>
+        </div>
+        <div class="option-item price-mobile-btn col">
+          <a href="/kaartverkoop" class="default-btn">Koop je kaartje<span></span></a>
         </div>
       </div>
     </div>
@@ -32,74 +24,30 @@
 
         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
           <ul class="navbar-nav m-auto">
-            <li class="nav-item">
-              <a href="/nieuws" class="nav-link {% if '/nieuws' in page.url %}active{% endif %}">Nieuws</a>
-            </li>
+{#            <li class="nav-item">#}
+{#              <a href="/nieuws" class="nav-link {% if '/nieuws' in page.url %}active{% endif %}">Nieuws</a>#}
+{#            </li>#}
 
             <li class="nav-item">
               <a href="/programma" class="nav-link {% if '/programma' in page.url %}active{% endif %}">Programma</a>
             </li>
 
-            <li class="nav-item">
-              <a href="/ons-verhaal" class="nav-link {% if '/ons-verhaal' in page.url %}active{% endif %}">Ons Verhaal</a>
-            </li>
+{#            <li class="nav-item">#}
+{#              <a href="/ons-verhaal" class="nav-link {% if '/ons-verhaal' in page.url %}active{% endif %}">Ons Verhaal</a>#}
+{#            </li>#}
 
             <li class="nav-item">
               <a href="/info" class="nav-link {% if '/info' in page.url %}active{% endif %}">Informatie</a>
             </li>
-
-{#            <li class="nav-item">#}
-{#              <a href="/winkel" class="nav-link {% if '/winkel' in page.url %}active{% endif %}">Winkel</a>#}
-{#            </li>#}
           </ul>
 
           <div class="others-options d-flex align-items-center">
-{#            <div class="option-item">#}
-{#              <div class="cart-btn">#}
-{#                <a href="cart.html">#}
-{#                  <i class='flaticon-shopping-cart'></i>#}
-{#                  <span>2</span>#}
-{#                </a>#}
-{#              </div>#}
-{#            </div>#}
-
             <div class="option-item">
-              <a href="pricing.html" class="default-btn">Koop je kaartje<span></span></a>
+              <a href="/kaartverkoop" class="default-btn">Koop je kaartje<span></span></a>
             </div>
           </div>
         </div>
       </nav>
-    </div>
-  </div>
-
-  <div class="others-option-for-responsive">
-    <div class="container">
-      <div class="dot-menu">
-        <div class="inner">
-          <div class="circle circle-one"></div>
-          <div class="circle circle-two"></div>
-          <div class="circle circle-three"></div>
-        </div>
-      </div>
-
-      <div class="container">
-        <div class="option-inner">
-          <div class="others-options d-flex align-items-center">
-            <div class="option-item">
-              <div class="cart-btn">
-                <a href="cart.html">
-                  <i class='flaticon-shopping-cart'></i>
-                  <span>2</span>
-                </a>
-              </div>
-            </div>
-
-            <div class="option-item">
-              <a href="pricing.html" class="default-btn">Koop je kaartje<span></span></a>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 </div>

@@ -623,7 +623,7 @@ Navbar Area CSS
   left: 0;
   width: 100%;
   z-index: 999;
-  background: #e5e0de;
+  background: #ffcd31;
   box-shadow: 0 0 1.25rem rgba(108, 118, 134, 0.1);
   animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
   transition: 0.6s;
@@ -782,7 +782,7 @@ Navbar Area CSS
   }
 
   .navbar-area {
-    background-color: #e5e0de;
+    background-color: #ffcd31;
     padding-top: 15px;
     padding-bottom: 15px;
   }
