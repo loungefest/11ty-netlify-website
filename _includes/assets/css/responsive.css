@@ -55,9 +55,6 @@
     z-index: -1;
     opacity: 0.77;
   }
-  .main-slides-content {
-    text-align: start;
-  }
   .main-slides-content .sub-title {
     font-size: 14px;
     padding: 8px 25px;
