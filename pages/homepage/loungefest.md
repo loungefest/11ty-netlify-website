@@ -5,7 +5,7 @@ youtube: https://www.youtube.com/watch?v=Z9uUx-SStqY?autoplay=1
 button_link: Toegangskaarten
 layout: layouts/home.njk
 subtitle: Wie niet komt is gek!
-button_title: Koop je kaartje
+button_title: Toegangskaarten
 permalink: /
 eleventyNavigation:
   order: 0
