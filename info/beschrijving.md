@@ -1,9 +1,10 @@
 ---
 title: BESCHRIJVING
 ---
-Loungefest is een tweedaags festival aan het Oosterduinse meer in Noordwijkerhout. De drie vaste podia: Main Stage, Bayou Stage, Lake Disco plus de jaarlijkse verrassing vormen de basis voor een diverse en orginele programmering.
+Loungefest is een tweedaags festival (7 & 8 juli) aan het Oosterduinse meer in Noordwijkerhout. Er zijn aankomend jaar vier podia.\
+Kijk voor een eerste indruk één van onze films:
 
-Lees "Ons Verhaal" voor meer informatie over Loungefest. Kijk daarnaast één van de vele aftermovies voor een eerste indruk:
+[L﻿oungefest 2022 Aftermovie](https://www.youtube.com/watch?v=Z9uUx-SStqY&ab_channel=LOUNGEFEST)
 
 [Loungefest 2019 Aftermovie](https://www.youtube.com/watch?v=kfPbySw8_z4&ab_channel=LOUNGEFEST)
 
