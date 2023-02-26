@@ -405,6 +405,7 @@ Navbar Area CSS
   position: relative;
   margin-left: 15px;
   margin-right: 15px;
+  text-transform: uppercase;
 }
 .main-navbar .navbar .navbar-nav .nav-item a {
   color: #393333;
