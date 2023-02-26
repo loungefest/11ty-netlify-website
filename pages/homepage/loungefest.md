@@ -10,5 +10,5 @@ permalink: /
 eleventyNavigation:
   order: 0
   key: Thuis
-thumbnail: /static/img/baby-01.jpg
+thumbnail: /static/img/achtergrond_baby_lf-01.jpg
 ---
