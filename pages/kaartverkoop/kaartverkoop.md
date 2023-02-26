@@ -1,4 +1,4 @@
 ---
 title: Koop je kaartje
-permalink: /kaartverkoop
+permalink: /kaartverkoop.html
 ---
