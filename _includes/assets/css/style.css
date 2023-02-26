@@ -791,14 +791,17 @@ Navbar Area CSS
   .main-responsive-nav .logo img {
     max-width: 130px !important;
   }
+
   .navbar-area {
     background-color: #ffcd31;
     padding-top: 15px;
     padding-bottom: 15px;
   }
+
   .main-navbar {
     display: none;
   }
+
   .others-option-for-responsive {
     display: block;
   }
