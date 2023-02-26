@@ -5,7 +5,7 @@ youtube: https://www.youtube.com/watch?v=Z9uUx-SStqY?autoplay=1
 button_link: www.loungefest.nl/kaartverkoop
 layout: layouts/home.njk
 subtitle: Wie niet komt is gek!
-button_title: Toegangskaarten
+button_title: Kaarten
 permalink: /
 eleventyNavigation:
   order: 0
