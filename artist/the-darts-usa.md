@@ -3,7 +3,7 @@ name: THE DARTS (USA)
 genre: All-girl garage-rock
 day: zaterdag
 time: N.T.B.
-youtube: https://www.youtube.com/watch?v=5DZ4rY6DSj8&ab_channel=KEXP
+youtube: https://www.youtube.com/watch?v=5DZ4rY6DSj8
 image: /static/img/thedarts_press.jpg
 ---
 <!--StartFragment-->
