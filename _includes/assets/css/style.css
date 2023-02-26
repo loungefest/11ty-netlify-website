@@ -91,6 +91,34 @@ Default CSS
   color: #e5e0de !important;
 }
 
+.color-stef-magenta {
+  color: #ed0f69 !important;
+}
+
+.bg-gras-geel {
+  background-color: #ffcd31 !important;
+}
+
+.bg-baby-oranje {
+  background-color: #f5822d !important;
+}
+
+.bg-kenny-blauw {
+  background-color: #0a9ebc !important;
+}
+
+.bg-como-groen {
+  background-color: #4a9142 !important;
+}
+
+.bg-ultra-zwart {
+  background-color: #393333 !important;
+}
+
+.bg-partytent-wit {
+  background-color: #e5e0de !important;
+}
+
 body {
   padding: 0;
   margin: 0;
