@@ -1,12 +1,13 @@
 ---
 name: THE DARTS (USA)
 genre: All-girl garage-rock
-day: Zaterdag
+day: zaterdag
 time: N.T.B.
 youtube: https://www.youtube.com/watch?v=yVzqu7ivVwQ&t=68s&ab_channel=KEXP
 image: /static/img/the_darts_lf-01.jpg
 ---
-<!--StartFragment-->\
+<!--StartFragment-->
+
 “Gets even the most apathetic nerds moshing. Crank it!” – Rolling Stone (FR) “The Darts ‘Take What I Need.’ Very cool.” – Stephen King, author “Fabulous…I’m hooked.” – Ken Foote, CBS (Dallas)\
 “One of my new favorite bands.” – Dave Vanian, The Damned\
 “The Darts smolder and shine like a serpent at the end of a rainbow.” – Blag Dahlia, The Dwarves “The Coolest Song In The World” – The Underground Garage (SiriusXM Radio)\
@@ -21,4 +22,5 @@ image: /static/img/the_darts_lf-01.jpg
 “Exciting, sweltering..consumes all of your garage rock desires.” – Java Magazine\
 “Move over Vincent Vega, I’m going with The Darts. Bloody Ace.” Mass Movement (UK)\
 “Oh yeah, Nicole Laurenne does it again!” – Genya Ravan, Chicks and Broads\
+
 <!--EndFragment-->
