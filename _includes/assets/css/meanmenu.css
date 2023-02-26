@@ -1,6 +1,6 @@
 .mean-container .mean-bar {
 	background: transparent;
-	padding: 20px 0 0;
+	padding: 20px;
 	z-index: 999;
 	border-bottom: 1px solid rgba(0, 0, 0, 0.03);
 	height: 55px;
@@ -53,7 +53,7 @@
 	padding: 1em 5%;
 	margin: 0;
 	text-align: left;
-	color: #677294;
+	color: #393333;
 	border-top: 1px solid #DBEEFD;
 	text-decoration: none;
 }
