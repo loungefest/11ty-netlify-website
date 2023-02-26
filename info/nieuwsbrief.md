@@ -1,6 +1,4 @@
 ---
 title: NIEUWSBRIEF
 ---
-Aanmelden voor nieuwsbrief kan via:
-
-www.davestinkt.nl
+Aanmelden voor de nieuwsbrief kan bij het aanschaffen van toegangskaarten!
