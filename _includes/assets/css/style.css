@@ -5819,11 +5819,21 @@ Copy Right Area CSS
 .copyright-area .copyright-area-content .left-column ul {
   text-align: left;
 }
+.copyright-area .copyright-area-content .footer-items-ben {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .copyright-area .copyright-area-content ul {
   padding-left: 0;
   margin-bottom: 0;
   list-style-type: none;
   text-align: right;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
 .copyright-area .copyright-area-content ul li {
   display: inline-block;
