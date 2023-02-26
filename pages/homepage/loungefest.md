@@ -1,6 +1,6 @@
 ---
 title: LOUNGEFEST
-loungefest_date: 8 & 9 juli
+loungefest_date: 7 & 8 juli 2023
 youtube: https://www.youtube.com/watch?v=Z9uUx-SStqY?autoplay=1
 button_link: kaarten
 layout: layouts/home.njk
