@@ -4,7 +4,7 @@ genre: All-girl garage-rock
 day: zaterdag
 time: N.T.B.
 youtube: https://www.youtube.com/watch?v=yVzqu7ivVwQ&t=68s&ab_channel=KEXP
-image: /static/img/the_darts_v5-01.jpg
+image: /static/img/thedarts_press.jpg
 ---
 <!--StartFragment-->
 
