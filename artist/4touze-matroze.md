@@ -1,5 +1,5 @@
 ---
-name: 4TOUZE MATROZE
+name: 4 TUOZE MATROZE
 genre: Nederlandstalige zeemansmuziek
 day: zaterdag
 time: N.t.b.
