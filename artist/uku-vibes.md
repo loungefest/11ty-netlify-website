@@ -6,7 +6,7 @@ time: N.T.B.
 youtube: Zie tekst
 image: /static/img/low_quality.jpeg
 ---
-A﻿ankomend jaar ons nieuwe podium! UKU VIBES!
+A﻿ankomend jaar op ons nieuwe podium! UKU VIBES!
 
 <https://youtu.be/YcDP1DScpi0>
 
