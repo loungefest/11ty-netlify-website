@@ -7,4 +7,4 @@ title: TOEGANGSKAARTEN
 
 De servicekosten bedragen 2 euro per ticket.
 
-[Haal hier je kaarten!](www.loungefest.nl/kaartverkoop)
+[Haal hier je kaarten!](https://www.loungefest.nl/kaartverkoop)
