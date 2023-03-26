@@ -3,7 +3,7 @@ name: UKU VIBES
 genre: Ukulele muziek
 day: Zaterdag
 time: N.T.B.
-youtube: https://youtu.be/YcDP1DScpi0
+youtube: /YcDP1DScpi0
 image: /static/img/uku_vibes_1600x800-01.jpg
 ---
 Uku Vibes, vers van het tropische eiland Wimbab. Vrolijke instrumentale eiland muziek die ideaal is voor op het strand, of om met je gedachte weg te dromen naar zonnige plekken.
