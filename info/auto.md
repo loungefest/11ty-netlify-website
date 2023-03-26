@@ -1,5 +1,5 @@
 ---
-title: AUTO
+title: 1. AUTO
 ---
 Kom je met de auto? Parkeer dan op de openbare parkeerplaats de Brink in Noordwijkerhout. \
 Parkeren op de Brink is gratis!
