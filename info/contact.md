@@ -1,5 +1,5 @@
 ---
-title: 2. CONTACT
+title: CONTACT
 ---
 Loungefest vindt plaats aan het Oosterduinse meer in Noordwijkhout.
 
