@@ -2,7 +2,7 @@
 name: ARP FRIQUE & THE FAMILY
 genre: Funk
 day: vrijdag
-time: T.B.D.
+time: N.T.B.
 youtube: https://youtu.be/RczrALDbFRg
 image: /static/img/kleine-bezetting-3joël-hempenius.jpg
 ---
