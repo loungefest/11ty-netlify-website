@@ -4,16 +4,20 @@ section: info
 ---
 {{ layoutContent | safe }}
 
-<div class="pricing-area-without-image pt-100 pb-75">
+<!-- Start Page Banner -->
+<div class="page-banner-area">
     <div class="container">
-        <div class="section-title">
-            <div class="wrapper">
-                <div id="app"></div>
-            </div>
+        <div class="page-banner-content">
+            <h2>{{ title }}</h2>
         </div>
     </div>
 </div>
+<!-- End Page Banner -->
 
-<link rel="stylesheet" href="/css/main-style.css">
-<script src="/js/chunk-vendors.b6ec443c.js"></script>
-<script src="/js/app.e72daab0.js"></script>
+<div class="pricing-area-without-image pt-100 pb-75">
+    <div class="container">
+        <div class="section-title">
+            <p>Als gevolg van een probleem met onze betaalpartner kunnen er op dit moment geen kaarten gekocht worden. Onze betaalpartner is dit probleem momenteel aan het oplossen en later vandaag kunnen er weer tickets gekocht worden.</p>
+        </div>
+    </div>
+</div>
