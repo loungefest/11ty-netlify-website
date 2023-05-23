@@ -18,8 +18,14 @@ describes the band as "a grand gumbo of singing, intoxicating rhythms, and deep 
 grooves that are impossible to resist.”
 
 "I’ve seen the future of New Orleans music and its name is Cha Wa." - Paste
+
+
 “Powerful, relatable, vibrant.” - NPR All Things Considered
-"Cha Wa, with bass lines played on sousaphone plus trumpet and two trombones, bring
+
+
+"Cha Wa, with bass lines played on sousaphone plus trumpet and two trombones, bring- 
 the city's brass band tradition to bear. Add sick jazz-funk guitar, and...full-beaded
 holiday regalia, and the result was a portable Mardi Gras Dance Party!" - Rolling Stone
+
+
 “Cha Wa blends Mardi Gras Indian tradition and modern pop magic.” – No Depression
