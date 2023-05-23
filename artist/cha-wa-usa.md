@@ -1,8 +1,8 @@
 ---
 name: CHA WA (USA)
-genre: Funk
+genre: Mardi Gras Dance Party
 day: "zaterdag "
-time: N.T.B.
+time: 18:45-19:45
 youtube: https://www.youtube.com/watch?v=nMlnt85iysY
 image: /static/img/7_small-01.jpg
 ---
