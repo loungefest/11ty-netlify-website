@@ -2,7 +2,7 @@
 name: FASKE
 genre: Nederlandstalig
 day: zaterdag
-time: N.T.B.
+time: 16:15-17:00
 youtube: https://www.youtube.com/watch?v=qAcS_z1eZIY
 image: /static/img/faske-lf_v2.jpg
 ---
