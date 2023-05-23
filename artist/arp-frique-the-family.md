@@ -1,5 +1,5 @@
 ---
-name: ARP FRIQUE & THE FAMILY
+name: ARP FRIQUE & FAMILY
 genre: Funk
 day: vrijdag
 time: N.T.B.
