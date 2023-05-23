@@ -4,7 +4,7 @@ genre: Electronic pop <3
 day: zaterdag
 time: 21:30-22:30
 youtube: https://www.youtube.com/watch?v=L_Bq-AHSXPk
-image: /static/img/smudged_2_michèlemargot.jpeg
+image: /static/img/smudged_2_michèlemargot2-01.jpg
 ---
 Risen from the primordial ooze of Rotterdam’s dampened DIY-caverns, Smudged scramble the very fabric of krautrock, noise punk, electronic pop and techno to new kinetic heights. Their offbeat live shows structurally unfold in novel forms of madness & mayhem.
 
