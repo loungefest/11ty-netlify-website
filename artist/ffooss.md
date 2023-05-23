@@ -1,8 +1,8 @@
 ---
 name: FFOOSS
-genre: Fuzzrock
+genre: Fuzzpop
 day: zaterdag
-time: N.T.B.
+time: 19:45-20:30
 youtube: https://www.youtube.com/watch?v=5BJcwCC_kaE
 image: /static/img/untitled-1-01.jpg
 ---
