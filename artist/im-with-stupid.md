@@ -2,7 +2,7 @@
 name: I'M WITH STUPID
 genre: reggaerock
 day: zaterdag
-time: N.T.B.
+time: 15:15-16:15
 youtube: https://www.youtube.com/watch?v=1nJ8fg0jC24
 image: /static/img/iws-01.jpg
 ---
