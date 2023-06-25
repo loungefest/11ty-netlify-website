@@ -1,5 +1,5 @@
 ---
-name: TheaterHuis
+name: THEATERHUIS
 genre: Theater
 day: zaterdag
 time: "Starttijden: 13:30, 14:00, 14:30, 15:00"
