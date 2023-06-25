@@ -1,9 +1,9 @@
 ---
-name: Steven Kazan
+name: STEVEN KAZAN
 genre: Theater
 day: zaterdag
 time: 16:15-17:00
-youtube: x
+youtube: https://youtu.be/P4JAvY4JmaM
 image: /static/img/22976_persfoto-steven-kazan-klein.jpg
 ---
 <!--StartFragment-->
