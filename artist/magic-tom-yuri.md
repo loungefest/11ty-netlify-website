@@ -1,5 +1,5 @@
 ---
-name: Magic Tom & Yuri
+name: MAGIC TOM & YURI
 genre: Theater
 day: zaterdag
 time: 19:45-20:30
