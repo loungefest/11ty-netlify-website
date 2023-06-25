@@ -1,5 +1,5 @@
 ---
-title: Openingstijden
+title: OPENINGSTIJDEN
 ---
 O﻿peningstijden Loungefest 2023:
 
