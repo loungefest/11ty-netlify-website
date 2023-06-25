@@ -2,7 +2,7 @@
 name: STEVEN KAZAN
 genre: Theater
 day: zaterdag
-time: 16:15-17:00
+time: "Starttijden: 16:15, 16:45"
 youtube: https://www.youtube.com/watch?v=fjw6GD-YXUw
 image: /static/img/22976_persfoto-steven-kazan-klein.jpg
 ---
