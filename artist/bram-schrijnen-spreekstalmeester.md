@@ -1,5 +1,5 @@
 ---
-name: Bram Schrijnen (spreekstalmeester)
+name: BRAM SCHRIJNEN
 genre: Spreekstalmeester
 day: zaterdag & vrijdag
 time: gehele dag
@@ -12,6 +12,6 @@ Bram Schrijnen, de spreekstalmeester van het hoofdpodium!\
 \
 Deze presentator vol kosmische krachten rockt al vele festivals zonder gitaar. Vorig jaar deed hij het prongelijk, maar nu komt ie expres naar Loungefest 2023!
 
-[bramschrijnen.nl](http://bramschrijnen.nl/)
+[bramschrijnen.nl](http://bramschrijnen.nl/)Z﻿ie meer informatie op: [bramschrijnen.nl](http://bramschrijnen.nl/)
 
 <!--EndFragment-->
