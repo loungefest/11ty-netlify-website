@@ -1,7 +1,7 @@
 ---
 name: GANGS OF KIN
 genre: Surrealistische pop
-day: zaterdag
+day: vrijdag
 time: 19:00 - 20:00
 youtube: https://www.youtube.com/watch?v=KYdcpk1B5YI
 image: /static/img/305581830_508183091308630_5342730148690641179_n.jpg
