@@ -4,7 +4,7 @@ title: PENDELSERVICE & OV
 De Loungefest pendelservice vertrekt vanaf
 
 * treinstation Sassenheim
-* t﻿reinstation Voorhout
+* treinstation Voorhout
 * busstation 'De Brink' Noordwijkerhout 
 
 LET OP: op vrijdag enkel pendelservice vanaf en naar de Brink in Noordwijkerhout.
@@ -27,7 +27,7 @@ Retour: 10 euro.
 
 **Pendelservice Loungefest - station Voorhout en station Sassenheim**
 
-Vertrektijden vanaf Loungefest: 19:20, 20:20, 21:20, 22:20, 23:20, 00:20.
+Vertrektijden vanaf Loungefest: 19:50, 20:50, 22:20, 23:20, 00:20.
 
 Bus vertrekt vanaf Loungefest eerst naar station Voorhout en vervolgens naar station Sassenheim. Bus van 00:20 rijdt alleen naar Voorhout.
 
