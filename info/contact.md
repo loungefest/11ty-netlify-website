@@ -8,6 +8,7 @@ Loungefest vindt plaats aan het Oosterduinse meer in Noordwijkhout.
   2211 AL, Noordwijkerhout\
   Mail algemeen: [info@loungefest.nl](mailto:info@loungefest.nl)\
   Mail tickets: [ticketing@loungefest.nl](mailto:ticketing@loungefest.nl)
+  Telefoon: [06 5005 4072](tel:0650054072)
 
 
 * **Financiële zaken:**\
