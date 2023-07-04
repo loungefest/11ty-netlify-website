@@ -1,0 +1,6 @@
+{
+  "permalink": "sponsors/{{ name | slug }}.html",
+  "tags": [
+    "sponsors"
+  ]
+}

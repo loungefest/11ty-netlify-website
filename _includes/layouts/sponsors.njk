@@ -1,0 +1,39 @@
+---
+layout: layouts/base.njk
+section: sponsors
+---
+
+<!-- Start Page Banner -->
+<div class="artist-banner-area">
+    <div class="container">
+        <div class="page-banner-content">
+            <h2>Sponsors</h2>
+        </div>
+    </div>
+</div>
+<!-- End Page Banner -->
+
+{% set sponsorslist = collections.sponsors %}
+
+<!-- Start Speakers Area -->
+<div class="speakers-area ptb-100">
+    <div class="container">
+        <div class="row justify-content-center">
+            {% for sponsor in sponsorslist %}
+                <div class="col-md-4">
+                    <a href="{{ sponsor.data.website }}" target="_blank" class="single-speakers-box">
+                        <div class="speakers-content">
+                            <div class="top-content text-justify">
+                                <h3>
+                                    {{ sponsor.data.name }}
+                                </h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            {% endfor %}
+
+        </div>
+    </div>
+</div>
+<!-- End Speakers Area -->

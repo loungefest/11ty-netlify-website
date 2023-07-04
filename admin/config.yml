@@ -72,6 +72,14 @@ collections:
         media_library:
           config:
             multiple: false
+  - name: "sponsors"
+    label: "Sponsors"
+    folder: "sponsors"
+    create: true
+    slug: "{{name}}"
+    fields:
+      - { label: "Naam", name: "name", widget: "string" }
+      - { label: "Website", name: "website", widget: "string" }
   # Our pages e.g. About
   - name: "pages"
     label: "Page"
