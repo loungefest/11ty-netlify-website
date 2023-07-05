@@ -2,8 +2,8 @@
 title: GELD GILDE
 thumbnail: /static/img/crew-finance-small.jpg
 ---
-Alles is te koop!
+*Alles is te koop!*
 
-O﻿ok je moeder. 
+*O﻿ok je moeder.* 
 
-S﻿orry Ma.
+*S﻿orry Ma.*
