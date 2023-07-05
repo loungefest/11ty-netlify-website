@@ -2,8 +2,8 @@
 title: INFRAPLOEG
 thumbnail: /static/img/infracrew.jpg
 ---
-Patjoemp 
+*Patjoemp* 
 
-it 
+*it* 
 
-up!
+*up!*
