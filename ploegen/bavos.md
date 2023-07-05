@@ -2,8 +2,8 @@
 title: BAVOS
 thumbnail: /static/img/bavo.jpeg
 ---
-**Ba**r
+***Ba**r*
 
-**Vo**edsel
+***Vo**edsel*
 
-**S**ponsering
+***S**ponsering*
