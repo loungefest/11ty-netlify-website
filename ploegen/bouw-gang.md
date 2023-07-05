@@ -2,6 +2,8 @@
 title: BOUWPLOEG
 thumbnail: /static/img/1579550737_bouwcrew-01.jpg
 ---
-De kracht van gezelligheid
+*I﻿ just wanna bang*
 
-I﻿ JUST WANNA BANG
+*B﻿luestriker*
+
+*Clawbanger*
