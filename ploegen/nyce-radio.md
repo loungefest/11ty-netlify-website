@@ -2,4 +2,8 @@
 title: NYCE RADIO
 thumbnail: /static/img/nyce_radio.jpg
 ---
-Zwoele Hits
+Zwoele 
+
+Zwoele
+
+S﻿chijfjes
