@@ -8,4 +8,4 @@ thumbnail: /static/img/bavo.jpeg
 
 **.**﻿
 
-﻿Bar, Voedsel, Sponsoring
+﻿*Bar, Voedsel, Sponsoring*
