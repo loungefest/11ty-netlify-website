@@ -1,5 +1,5 @@
 ---
-title: ARTIESTENBEGELEIDING
+title: Hospitality
 thumbnail: /static/img/hospitality..jpg
 ---
 .﻿
