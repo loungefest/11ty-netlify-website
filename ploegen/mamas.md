@@ -1,5 +1,5 @@
 ---
-title: "  MAMAS MAMAS MAMAS  "
+title: M A M A S
 thumbnail: /static/img/mama-s.jpeg
 ---
 *.*﻿
