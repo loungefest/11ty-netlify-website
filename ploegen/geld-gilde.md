@@ -1,6 +1,6 @@
 ---
 title: GELD GILDE
-thumbnail: /static/img/crew-finance-small.jpg
+thumbnail: /static/img/finance.jpeg
 ---
 *.*﻿
 
