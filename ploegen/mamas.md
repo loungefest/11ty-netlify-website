@@ -1,6 +1,6 @@
 ---
 title: MAMAS
-thumbnail: /static/img/mama_600x600.jpg
+thumbnail: /static/img/mama-s.jpeg
 ---
 *.*﻿
 
