@@ -4,8 +4,8 @@ thumbnail: /static/img/bavos.jpg
 ---
 S﻿tijn, Max, Donald
 
-Maikel, Shaun, Sam
+Maikel, Sean, Sam
 
-Ivar﻿, Vincent, 
+Ivar﻿, Vincent, Mark
 
 ﻿*Bar, Voedsel, Sponsoring*
