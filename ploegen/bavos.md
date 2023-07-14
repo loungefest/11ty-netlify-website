@@ -2,10 +2,10 @@
 title: BAVOS
 thumbnail: /static/img/bavos.jpg
 ---
-S﻿tijn, Max, Donald
+S﻿tijn, Maikel, Ivar﻿,
 
-Maikel, Sean, Sam
+Max, Vincent, Mark,
 
-Ivar﻿, Vincent, Mark, Robin
+Donald, Sean, Sam, Robin
 
 ﻿**BA**r, **VO**edsel, **S**ponsoring
