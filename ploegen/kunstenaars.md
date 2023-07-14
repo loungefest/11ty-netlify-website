@@ -8,4 +8,4 @@ H﻿annie, Hans, Paul, Nicky,
 
 Peter, Willie, P﻿iet, Wobbe, 
 
-Wim, Frans, Monique.
+Wim, Frans, Monique, Steven, Maarten.
