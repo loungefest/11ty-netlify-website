@@ -8,4 +8,4 @@ Jaap, Jordy, M﻿ichan, Robin
 
 O﻿scar, Mark (2x), Bren, Louis
 
-D﻿ave, Ralph, Leon <- stagaires
+D﻿ave, Ralph <- stagiaires
