@@ -1,5 +1,5 @@
 ---
-title: GELD GILDE
+title: FINANCE
 thumbnail: /static/img/finance.jpeg
 ---
 B﻿art
