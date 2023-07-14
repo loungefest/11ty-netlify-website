@@ -2,10 +2,10 @@
 title: BOUWCREW
 thumbnail: /static/img/1579550737_bouwcrew-01.jpg
 ---
-K﻿oen, Rob, Jaap
+K﻿oen, Rob, Jaap, S﻿tefan 
 
-S﻿tefan, Max, Jordy
+Max, Jordy, M﻿ichan, Robin
 
-M﻿ichan, Robin
+O﻿scar, Mark (2x), Bren, Louis
 
-*I﻿ just wanna bang!*
+D﻿ave, Ralph, Leon <- stagaires
