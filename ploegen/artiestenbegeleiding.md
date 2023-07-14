@@ -1,5 +1,5 @@
 ---
-title: Hospitality
+title: HOSPITALITY
 thumbnail: /static/img/hospitality.jpg
 ---
 Maartje
