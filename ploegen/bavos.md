@@ -8,4 +8,4 @@ Maikel, Sean, Sam
 
 Ivar﻿, Vincent, Mark
 
-﻿*Bar, Voedsel, Sponsoring*
+﻿**BA**r, **VO**edsel, **S**ponsoring
