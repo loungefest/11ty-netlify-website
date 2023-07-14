@@ -4,8 +4,8 @@ thumbnail: /static/img/1579550737_bouwcrew-01.jpg
 ---
 K﻿oen, Rob, Max, S﻿tefan, Job
 
-Jaap, Jordy, M﻿ichan, Robin
+Jaap, Jordy,  Robin, O﻿scar,
 
-O﻿scar, Mark (2x), Bren, Louis
+Bren, M﻿ichan, Mark (2x), Louis 
 
 D﻿ave, Ralph <- stagiaires
