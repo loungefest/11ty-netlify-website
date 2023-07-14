@@ -2,12 +2,8 @@
 title: GELD GILDE
 thumbnail: /static/img/finance.jpeg
 ---
-S﻿uzanne
+S﻿uzanne  B﻿art
 
-B﻿art
-
-L﻿aura
-
-O﻿scar 
+O﻿scar  L﻿aura
 
 administratie@loungefest.nl
