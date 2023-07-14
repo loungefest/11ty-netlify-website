@@ -6,6 +6,6 @@ B﻿art
 
 S﻿uzanne 
 
-O﻿scar  L﻿aura
+O﻿scar, L﻿aura 
 
 administratie@loungefest.nl
