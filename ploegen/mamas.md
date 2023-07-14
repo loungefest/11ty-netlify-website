@@ -1,11 +1,11 @@
 ---
-title: M A M A S
+title: MAMAS
 thumbnail: /static/img/mama-s.jpeg
 ---
-*.*﻿
+C﻿hrista, N﻿oa﻿, L﻿iselotte
 
-*.*﻿
+J﻿uliette, Laure, Leona, Sophie
 
-*.*﻿
+Kevin, S﻿usy, Miquitte
 
-*van 200 vrijwilligers*
+*V﻿erzorgen 200 vrijwilligers :)*
