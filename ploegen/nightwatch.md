@@ -2,10 +2,8 @@
 title: NIGHTWATCH
 thumbnail: /static/img/nightwatch3-01.jpg
 ---
-.﻿
+Roan, Tim, Rintje,
 
-.﻿
+Thijs, Daniel, 
 
-.﻿
-
-A﻿ctief van 13:00 tot 08:00
+Daan, Mark
