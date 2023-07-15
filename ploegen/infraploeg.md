@@ -1,11 +1,11 @@
 ---
-title: INFRAPLOEG
+title: INFRA
 thumbnail: /static/img/infracrew.jpg
 ---
-*.*﻿
+Jaap,﻿ Teun K, Menno,
 
-*.*﻿
+D﻿ave, Harm, Teun A, 
 
-*.*
+L﻿uuk, Joey, Peter-Jan
 
-*Patjoemp it* *up!*
+T﻿eun G, Bas, Christiaan.
