@@ -2,16 +2,10 @@
 title: CLAWBANGERS
 thumbnail: /static/img/clawbangers3.jpg
 ---
+G﻿AAN
 
+\=﻿ 
 
+G﻿AAN
 
-
-
-
-
-
-
-
-
-
-C﻿LAWBANGERS I﻿ JUST WANNA BANG!
+I﻿ JUST WANNA BANG!
