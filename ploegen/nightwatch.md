@@ -4,6 +4,10 @@ thumbnail: /static/img/nightwatch3-01.jpg
 ---
 Roan, Tim, Rintje,
 
-Thijs, Daniel, 
+Thijs, Daniel, Mike,
 
-Daan, Mark
+Daan, Mark, Vincent,
+
+R﻿osanne, Maarten, Pepijn
+
+N﻿iels, Leon
