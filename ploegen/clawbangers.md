@@ -2,12 +2,18 @@
 title: CLAWBANGERS
 thumbnail: /static/img/clawbangers2.jpg
 ---
-I﻿ JUST WANNA BANG
+C﻿LAWBANGERS
 
-G﻿AAN = GAAN
+.﻿
 
-G﻿OT YOUR BACK FT JORDY
+.﻿
 
-S﻿PRAYLANCE CREW
+.﻿
 
-A﻿DANSES
+.﻿
+
+.﻿
+
+.﻿
+
+I﻿ JUST WANNA BANG!
