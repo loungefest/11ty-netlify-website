@@ -1,6 +1,6 @@
 ---
 title: DECO
-thumbnail: /static/img/decoratie_600x600.jpg
+thumbnail: /static/img/deco.jpeg
 ---
 O﻿laf, Jeroen, Liselotte,
 
