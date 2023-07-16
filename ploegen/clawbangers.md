@@ -1,6 +1,6 @@
 ---
 title: CLAWBANGERS
-thumbnail: /static/img/clawbangers2.jpg
+thumbnail: /static/img/clawbangers3.jpg
 ---
 C﻿LAWBANGERS
 
