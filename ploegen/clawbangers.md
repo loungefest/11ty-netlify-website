@@ -14,6 +14,4 @@ C﻿LAWBANGERS
 
 .﻿
 
-.﻿
-
 I﻿ JUST WANNA BANG!
