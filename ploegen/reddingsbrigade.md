@@ -1,6 +1,6 @@
 ---
 title: REDDINGSBRIGADE
-thumbnail: /static/img/404.png
+thumbnail: /static/img/reddingsbrigade-01.jpg
 ---
 Menno
 
