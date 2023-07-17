@@ -4,6 +4,8 @@ thumbnail: /static/img/vullescrew.jpg
 ---
 S﻿joerd, Renee, Marit, 
 
-M﻿elissa, Thijs, Babet, Stijn, Daphne, 
+M﻿elissa, Thijs, Babet, 
 
-W﻿out, Thijs, Milan, Bart
+Stijn, Daphne, Bart,
+
+W﻿out, Thijs, Milan.
