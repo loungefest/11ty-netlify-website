@@ -1,13 +1,9 @@
 ---
 title: VULLESCREW
-thumbnail: /static/img/404.png
+thumbnail: /static/img/vullescrew.jpg
 ---
-S﻿joerd
+S﻿joerd, Renee, Marit, 
 
-.﻿
+M﻿elissa, Thijs, Babet, Stijn, Daphne, 
 
-.﻿
-
-.﻿
-
-.
+W﻿out, Thijs, Milan, Bart
