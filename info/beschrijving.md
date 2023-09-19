@@ -1,10 +1,12 @@
 ---
 title: BESCHRIJVING
 ---
-Loungefest is een tweedaags festival (7 & 8 juli) aan het Oosterduinse meer in Noordwijkerhout. Er zijn aankomend jaar vier podia.\
+Loungefest is een tweedaags festival (12 & 13 juli) aan het Oosterduinse meer in Noordwijkerhout.\
 Kijk voor een eerste indruk één van onze films:
 
-[L﻿oungefest 2022 Aftermovie](https://www.youtube.com/watch?v=Z9uUx-SStqY&ab_channel=LOUNGEFEST)
+[L﻿oungefest 2023 Aftermovie](https://www.youtube.com/watch?v=8249TbOY_nw&ab_channel=LOUNGEFEST)
+
+[](https://www.youtube.com/watch?v=8249TbOY_nw&ab_channel=LOUNGEFEST)[L﻿oungefest 2022 Aftermovie](https://www.youtube.com/watch?v=Z9uUx-SStqY&ab_channel=LOUNGEFEST)
 
 [Loungefest 2019 Aftermovie](https://www.youtube.com/watch?v=kfPbySw8_z4&ab_channel=LOUNGEFEST)
 
