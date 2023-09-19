@@ -1,7 +1,7 @@
 ---
 title: OPENINGSTIJDEN
 ---
-O﻿peningstijden Loungefest 2023:
+O﻿peningstijden Loungefest 2024:
 
-* V﻿rijdag 7 juli van 17:00 t/m 00:30
-* Zaterdag 8 juli van 13:00 t/m 00:30
+* V﻿rijdag 12 juli van 17:00 t/m 00:30
+* Zaterdag 13 juli van 13:00 t/m 00:30
