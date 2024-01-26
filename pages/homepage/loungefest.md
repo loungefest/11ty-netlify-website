@@ -6,7 +6,7 @@ button_link: www.loungefest.nl/kaartverkoop
 layout: layouts/home.njk
 subtitle: Koop nu het enige echte Loungepils online! Na aankoop af the halen bij
   Santhe in Noordwijkerhout.
-button_title: Bier kopen!
+button_title: Tickets kopen!
 permalink: /
 eleventyNavigation:
   order: 0
