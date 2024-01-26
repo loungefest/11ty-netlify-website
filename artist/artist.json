@@ -1,7 +1,0 @@
-{
-  "layout": "layouts/artist-detail.njk",
-  "permalink": "artiest/{{ name | slug }}.html",
-  "tags": [
-    "artist"
-  ]
-}
