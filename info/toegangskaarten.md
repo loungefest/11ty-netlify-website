@@ -1,9 +1,9 @@
 ---
 title: TOEGANGSKAARTEN
 ---
-- Vrijdag € 17,50 (excl. servicekosten)
-- Zaterdag € 30,00 (excl. servicekosten)
-- Weekend € 37,50 (excl. servicekosten)
+* Vrijdag € xx (excl. servicekosten)
+* Zaterdag € xx (excl. servicekosten)
+* Weekend € xx (excl. servicekosten)
 
 De servicekosten bedragen 2 euro per ticket.
 
