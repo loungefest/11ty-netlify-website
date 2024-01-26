@@ -27,16 +27,13 @@
 <!-- Custom JS -->
 <script src="/js/main.js"></script>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-73161133-1"></script>
 <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-
-    gtag('js', new Date());
-
-    gtag('config', 'UA-73161133-1');
+  gtag('config', 'UA-73161133-1');
 </script>
+
