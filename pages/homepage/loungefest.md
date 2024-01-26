@@ -4,8 +4,7 @@ loungefest_date: 12 & 13 JULI 2024
 youtube: https://www.youtube.com/watch?v=Z9uUx-SStqY?autoplay=1
 button_link: www.loungefest.nl/kaartverkoop
 layout: layouts/home.njk
-subtitle: Koop nu het enige echte Loungepils online! Na aankoop af the halen bij
-  Santhe in Noordwijkerhout.
+subtitle: Vanaf 20:00 op vrijdag 26 januari gaan de vroege vogel tickets in de verkoop!
 button_title: Tickets kopen!
 permalink: /
 eleventyNavigation:
