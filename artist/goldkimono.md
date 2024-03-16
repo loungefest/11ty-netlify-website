@@ -3,7 +3,7 @@ name: GOLDKIMONO
 genre: Vibe
 day: vrijdag
 time: 20:45-21:45
-youtube: ?v=IbHZH7faBdY&ab_channel=Goldkimono
+youtube: www.youtube.com/watch?v=JTNrRZOQFYk&ab_channel=NPORadio2Muziek
 image: /static/img/goldkimono.jpg
 ---
 Goldkimono - de band rondom zanger Martijn Konijnenburg - ken je waarschijnlijk van hun hits ‘To Tomorrow’ en ‘Electric Swing’! Ook heeft Martijn meegeschreven aan onder andere de hit ‘Firestone’ van Kygo. 
