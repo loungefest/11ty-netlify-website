@@ -374,6 +374,10 @@ $transition: .6s;
             padding: 28px 18px 0;
 
             .top-content {
+                h3 {
+                    font-size: 2rem;
+                }
+
                 .message-icon {
                     display: none;
                 }

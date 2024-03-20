@@ -301,6 +301,9 @@
   .single-speakers-box .speakers-content {
     padding: 28px 18px 0;
   }
+  .single-speakers-box .speakers-content .top-content h3 {
+    font-size: 2rem;
+  }
   .single-speakers-box .speakers-content .top-content .message-icon {
     display: none;
   }
