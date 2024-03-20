@@ -631,13 +631,13 @@ jQuery(function ($) {
 			ctx = screen.ctx;
 		screen.resize();
 		// create LavaLamps
-		lava1 = new LavaLamp(screen.width, screen.height, 8, "#6b0f54", "#6b0f54", ctx);
+		lava1 = new LavaLamp(screen.width, screen.height, 6, "#6b0f54", "#6b0f54", ctx);
 
 		var screen2 = ge1doot.screen.init("bubble2", null, true),
 			ctx2 = screen2.ctx;
 		screen2.resize();
 		// create LavaLamps
-		lava2 = new LavaLamp(screen2.width, screen2.height, 8, "#69590f", "#69590f", ctx2);
+		lava2 = new LavaLamp(screen2.width, screen2.height, 6, "#69590f", "#69590f", ctx2);
 
 		run();
 		run2();
