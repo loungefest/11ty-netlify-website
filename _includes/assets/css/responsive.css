@@ -244,6 +244,7 @@
 
   .copyright-area-content {
     text-align: center;
+    flex-direction: column;
   }
   .copyright-area-content ul {
     text-align: center;

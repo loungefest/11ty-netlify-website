@@ -308,6 +308,7 @@ $transition: .6s;
     }
     .copyright-area-content {
         text-align: center;
+        flex-direction: column;
 
         ul {
             text-align: center;
