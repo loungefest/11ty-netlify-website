@@ -2,13 +2,16 @@ $main-font-family: 'Karla', sans-serif;
 $heading-font-family: 'Poppins', sans-serif;
 
 //Loungefest color palette
-$stef-magenta: #ed0f69;
+$stef-magenta: #e84abf;
+$stef-magenta-dark: #6b0f54;
 $baby-oranje: #f5822d;
 $gras-geel: #ffcd31;
-$kenny-blauw: #0a9ebc;
-$como-groen: #4a9142;
+$kenny-blauw: #6194cf;
+$kenny-blauw-dark: #241f47;
+$como-groen: #c2e800;
+$como-groen-dark: #69590f;
 $ultra-zwart: #393333;
-$partytent-wit: #e5e0de;
+$partytent-wit: #ebe6dd;
 
 
 $main-color: $gras-geel;
@@ -50,7 +53,7 @@ $transition: .6s;
             &.meanmenu-reveal {
                 span {
                     display: block;
-                    background: #000;
+                    background: $stef-magenta;
                     height: 4px;
                     margin-top: -5px;
                     border-radius: 3px;
@@ -64,7 +67,7 @@ $transition: .6s;
             border-bottom: none;
         }
         .mean-nav {
-            margin-top: 50px;
+            margin-top: 0;
         }
     }
     .main-slides-item {
@@ -91,16 +94,14 @@ $transition: .6s;
             font-size: 14px;
             padding: 8px 25px;
         }
-        h1 {
-            font-size: 30px;
+        .head-title {
+            font-size: 4em;
         }
         .slides-btn {
             margin-top: 25px;
 
             .default-btn {
-                padding: 10px 10px;
-                font-size: 14px;
-                margin-right: 5px;
+                font-size: 1.5em;
 
                 i {
                     display: none;
@@ -372,9 +373,6 @@ $transition: .6s;
             padding: 28px 18px 0;
 
             .top-content {
-                h3 {
-                    font-size: 20px;
-                }
                 .message-icon {
                     display: none;
                 }
@@ -989,7 +987,7 @@ $transition: .6s;
 
                 span {
                     display: block;
-                    background: #000;
+                    background: $stef-magenta;
                     height: 4px;
                     margin-top: -5px;
                     border-radius: 3px;
@@ -1003,7 +1001,7 @@ $transition: .6s;
             border-bottom: none;
         }
         .mean-nav {
-            margin-top: 50px;
+            margin-top: 0;
         }
     }
     .main-slides-item {
@@ -1011,8 +1009,6 @@ $transition: .6s;
         padding-bottom: 180px;
     }
     .main-slides-content {
-        text-align: start;
-
         h1 {
             font-size: 50px;
         }
@@ -1403,7 +1399,7 @@ $transition: .6s;
 
                 span {
                     display: block;
-                    background: #000;
+                    background: $stef-magenta;
                     height: 4px;
                     margin-top: -5px;
                     border-radius: 3px;
@@ -1418,7 +1414,7 @@ $transition: .6s;
             padding-top: 0;
         }
         .mean-nav {
-            margin-top: 50px;
+            margin-top: 0;
         }
     }
     .main-slides-content {
@@ -1477,15 +1473,6 @@ $transition: .6s;
         }
     }
     .single-speakers-box {
-        .speakers-content {
-            padding: 25px 20px 0;
-
-            .top-content {
-                h3 {
-                    font-size: 20px;
-                }
-            }
-        }
     }
     .single-fun-fact {
         padding: 30px 20px 30px 95px;

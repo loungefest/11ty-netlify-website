@@ -33,13 +33,28 @@ section: artists
         </div>
         <div class="row justify-content-center">
             {% for artist in artistlist %}
-                <div class="col-md-6" data-tag="{{ artist.data.day }}">
+                <div class="col-md-6 speaker-wrapper" data-tag="{{ artist.data.day }}">
                     <a href="{{ artist.url }}" class="single-speakers-box" style="background-image: url('{{ artist.data.image }}');">
                         <div class="speakers-content">
                             <div class="top-content">
                                 <h3>
                                     {{ artist.data.name }}
                                 </h3>
+                                <ul class="artist-details">
+                                    {% if artist.data.day %}
+                                        <li>
+                                            {{ artist.data.day }}
+                                        </li>
+                                    {% endif %}
+                                    {% if artist.data.day and artist.data.time %}
+                                        <li>-</li>
+                                    {% endif %}
+                                    {% if artist.data.time %}
+                                        <li>
+                                            {{ artist.data.time }}
+                                        </li>
+                                    {% endif %}
+                                </ul>
                             </div>
                         </div>
                     </a>

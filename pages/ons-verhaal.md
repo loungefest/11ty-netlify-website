@@ -1,6 +1,6 @@
 ---
 layout: layouts/ons-verhaal.njk
-title: Ons Verhaal
+title: Onze ploegen
 metaDescription: ons-verhaal
 date: 2022-01-01
 permalink: /ons-verhaal/index.html

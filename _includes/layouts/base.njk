@@ -3,7 +3,7 @@
 
 	{% include "components/head.njk" %}
 
-	<body>
+	<body class="{{ section }}-page">
 		<!-- Start Preloader Area -->
 		<div class="preloader">
 			<div class="loader">
@@ -13,12 +13,16 @@
 		</div>
 		<!-- End Preloader Area -->
 
-		{% include "components/nav.njk" %}
+		<div class="main-content">
+			{% include "components/nav.njk" %}
 
-		{{ layoutContent | safe }}
+			<div class="web-content">
+				{{ layoutContent | safe }}
+			</div>
 
 
-		{% include "components/copyright.njk" %}
+			{% include "components/copyright.njk" %}
+		</div>
 
 		<!-- Start Go Top Area -->
 		<div class="go-top">

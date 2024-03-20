@@ -66,19 +66,36 @@ Default CSS
 
 @import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
 
+@font-face {
+    font-family: 'Salina Trail Bold';
+    src: url('../fonts/Salina-Trial-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Salina Trail Regular';
+    src: url('../fonts/Salina-Trial-Regular.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
 //Loungefest color palette
-$stef-magenta: #ed0f69;
+$stef-magenta: #e84abf;
+$stef-magenta-dark: #6b0f54;
 $baby-oranje: #f5822d;
 $gras-geel: #ffcd31;
-$kenny-blauw: #0a9ebc;
-$como-groen: #4a9142;
+$kenny-blauw: #6194cf;
+$kenny-blauw-dark: #241f47;
+$como-groen: #c2e800;
+$como-groen-dark: #69590f;
 $ultra-zwart: #393333;
-$partytent-wit: #e5e0de;
+$partytent-wit: #ebe6dd;
 
-$main-font-family: 'Karla', sans-serif;
-$heading-font-family: 'Poppins', sans-serif;
-$main-color: $gras-geel;
-$optional-color: $stef-magenta;
+$main-font-family: 'Salina Trail Bold', sans-serif;
+$heading-font-family: 'eckmannpsych-small', sans-serif;
+$main-color: $stef-magenta;
+$optional-color: $como-groen;
 $white-color: $partytent-wit;
 $black-color: $ultra-zwart;
 $paragraph-color: $ultra-zwart;
@@ -87,8 +104,8 @@ $transition: .6s;
 
 .color-stef-magenta {
     color: $stef-magenta !important
-
 }
+
 .color-gras-geel {
     color: $gras-geel !important
 }
@@ -142,13 +159,21 @@ $transition: .6s;
 }
 
 .navbar-area .price-mobile-btn {
-    text-align: center;
+    text-align: right;
+
+    @media only screen and (max-width: 767px) {
+        .default-btn {
+            font-size: 0.75rem;
+        }
+    }
 }
 
 .navbar-area .ben-is-gay {
     padding-right: calc(var(--bs-gutter-x) * .5);
     padding-left: calc(var(--bs-gutter-x) * .5);
     margin-top: var(--bs-gutter-y);
+    flex-grow: 0;
+    gap: 1rem;
 }
 
 body {
@@ -156,7 +181,8 @@ body {
     margin: 0;
     font-family: $main-font-family;
     font-size: $font-size;
-    background-color: #ffffff;
+    background-color: $stef-magenta-dark;
+    height: 100vh;
 }
 a {
     text-decoration: none;
@@ -174,8 +200,8 @@ a {
     border-color: $kenny-blauw;
 
     &:hover {
-        background-color: $stef-magenta;
-        border-color: $stef-magenta;
+        background-color: $kenny-blauw-dark;
+        border-color: $kenny-blauw-dark;
     }
 }
 button {
@@ -228,10 +254,28 @@ img {
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     color: $black-color;
     font-family: $heading-font-family;
-    font-weight: bold;
+    font-weight: normal;
+    letter-spacing: 2px;
 
     &:last-child {
         margin-bottom: 0;
+    }
+}
+
+.main-content {
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr auto;
+
+    .web-content {
+        display: grid;
+        margin-top: 72px;
+
+        .main-banner-area {
+            min-height: 0;
+            overflow: auto;
+            grid-row: 1;
+        }
     }
 }
 
@@ -245,10 +289,10 @@ Default Btn CSS
     text-align: center;
     overflow: hidden;
     z-index: 1;
-    color: $white-color;
-    background-color: $como-groen;
+    color: $kenny-blauw;
+    background-color: $kenny-blauw-dark;
     transition: $transition;
-    border-radius: 5px;
+    border-radius: 30px;
     padding: 15px 25px 15px 25px;
     font-weight: 500;
     font-size: $font-size;
@@ -259,12 +303,11 @@ Default Btn CSS
         display: block;
         width: 0;
         height: 0;
-        border-radius: 50%;
-        background-color: $baby-oranje;
+        border-radius: 30px;
+        background-color: $kenny-blauw;
         transition: width 0.5s ease-in-out, height 0.5s ease-in-out;
         transform: translate(-50%, -50%);
         z-index: -1;
-        border-radius: 5px;
     }
     i {
         position: absolute;
@@ -406,7 +449,7 @@ Navbar Area CSS
 }
 .main-navbar {
     padding: 10px 0;
-    background: $gras-geel;
+    background: $stef-magenta;
 
     .navbar {
         transition: $transition;
@@ -428,15 +471,14 @@ Navbar Area CSS
                 text-transform: uppercase;
 
                 a {
-                    color: $black-color;
+                    color: $como-groen;
                     font-size: $font-size;
                     font-weight: 500;
-                    padding-left: 0;
-                    padding-right: 0;
-                    padding-top: 25px;
-                    padding-bottom: 25px;
+                    padding: 1rem;
                     transition: $transition;
-                    font-family: $heading-font-family;
+                    font-family: $main-font-family;
+                    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+                    animation: morph 10s linear infinite alternate;
 
                     i {
                         font-size: 14px;
@@ -447,7 +489,8 @@ Navbar Area CSS
                         margin-right: -2px;
                     }
                     &:hover, &:focus, &.active {
-                        color: $baby-oranje;
+                        color: $stef-magenta;
+                        background-color: $stef-magenta-dark;
                     }
                 }
                 &:last-child {
@@ -458,7 +501,8 @@ Navbar Area CSS
                 }
                 &:hover, &.active {
                     a {
-                        color: $baby-oranje;
+                        color: $stef-magenta;
+                        background-color: $stef-magenta-dark;
                     }
                 }
                 .dropdown-menu {
@@ -719,10 +763,20 @@ Navbar Area CSS
         left: 0;
         width: 100%;
         z-index: 999;
-        background: $gras-geel;
+        background: $stef-magenta;
         box-shadow: 0 0 1.25rem rgba(108, 118, 134, .1);
         animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
         transition: $transition;
+    }
+
+    body.homepage-page & {
+        .navbar-brand {
+            display: none;
+        }
+
+        .others-options {
+            display: none !important;
+        }
     }
 }
 .others-option-for-responsive {
@@ -830,14 +884,22 @@ Navbar Area CSS
             position: relative;
 
             &.mean-container {
+                .mean-bar {
+                    height: auto;
+                    min-height: 55px;
+                }
+
                 .mean-nav {
+                    background: unset;
                     ul {
                         font-size: 15px;
 
                         li {
                             a {
+                                color: $stef-magenta-dark;
+
                                 &.active {
-                                    color: $kenny-blauw;
+                                    color: $como-groen;
                                 }
                                 i {
                                     display: none;
@@ -894,17 +956,26 @@ Navbar Area CSS
                     overflow: scroll;
                     max-height: 70vh;
                     box-shadow: 0 7px 13px 0 rgba(0, 0, 0, .1);
-                    background-color: $gras-geel;
+                    background-color: $stef-magenta;
                 }
             }
         }
         .mean-container {
+            align-items: center;
+            gap: 1rem;
+            justify-content: end;
+
             a {
                 &.meanmenu-reveal {
-                    color: $black-color;
+                    position: relative;
+                    color: $stef-magenta;
+                    background-color: $stef-magenta-dark;
+                    padding: 0.5rem;
+                    border-radius: 40% 60% 60% 40% / 70% 30% 70% 30%;
+                    animation: morph 10s linear infinite alternate;
 
                     span {
-                        background: $black-color;
+                        color: $stef-magenta;
                         position: relative;
                     }
                 }
@@ -919,7 +990,7 @@ Navbar Area CSS
         }
     }
     .navbar-area {
-        background-color: $gras-geel;
+        background-color: $stef-magenta;
         padding-top: 15px;
         padding-bottom: 15px;
     }
@@ -931,6 +1002,31 @@ Navbar Area CSS
 
         .cart-btn {
             display: none;
+        }
+    }
+}
+
+
+/*=======
+Lava lamp CSS
+ ========*/
+
+.navbar-area,
+.copyright-area {
+    position: relative;
+    overflow: hidden;
+
+    .wrap {
+        overflow: hidden;
+        position: absolute;
+        left: -200px;
+        right: -200px;
+        top: -400px;
+        bottom: -400px;
+
+        canvas {
+            width: 100%;
+            height: 100%;
         }
     }
 }
@@ -975,38 +1071,32 @@ Main Slides Area CSS
     .main-slide-bg {
         display: inline-block;
         padding: 2rem;
-        background-color: rgba(229, 224, 222, 0.75);
         border-radius: 8px;
     }
-
-    .sub-title {
-        color: $white-color;
-        display: inline-block;
-        font-size: 15px;
-        font-weight: 500;
-        margin-bottom: 0;
-        background: rgba(93, 93, 99, 0.8);
-        padding: 10px 25px;
-        border-radius: 50px;
-        font-family: $heading-font-family;
-    }
-    h1 {
-        font-size: 70px;
+    .head-title {
+        font-size: 6em;
         margin-top: 20px;
         margin-bottom: 10px;
-        color: $ultra-zwart;
+        color: $como-groen;
         line-height: 1.4;
+        text-shadow: 0 0 32px rgba($como-groen-dark, 1);
     }
-    p {
-        color: $ultra-zwart;
+    .sub-title {
+        color: $white-color;
         max-width: 750px;
         margin: auto;
+        font-family: $main-font-family;
+        background: rgba($stef-magenta-dark, 0.5);
+        padding: 10px 25px;
+        border-radius: 50px;
     }
     .slides-btn {
         margin-top: 35px;
 
         .default-btn {
-            margin-right: 25px;
+            font-size: 2em;
+            border-radius: 50px;
+            padding: 0.5em 1.5em;
         }
         .optional-btn {
             color: $ultra-zwart;
@@ -1088,14 +1178,15 @@ Main Slides Area CSS
 Main Banner Area CSS
 =================================================*/
 .main-banner-area {
-    background-image: url(../../../static/img/banner-bg.jpg);
     background-position: center 90%;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
     z-index: 1;
-    padding-top: 80px;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
     &::before {
         position: absolute;
@@ -1838,7 +1929,7 @@ Events Schedules Area CSS
 Expect Area CSS
 =================================================*/
 .expect-area {
-    background-color: #fff6f2;
+    background-color: $partytent-wit;
 
     .view-all-btn {
         margin-top: 35px;
@@ -1874,7 +1965,6 @@ Expect Area CSS
 .expect-item {
     background-color: $white-color;
     box-shadow: 0 0 1.25rem rgba(108, 118, 134, .1);
-    border-radius: 10px;
     padding: 25px 22px;
     position: relative;
     z-index: 10;
@@ -1919,9 +2009,19 @@ Expect Area CSS
         bottom: 0;
         background-color: rgba(0, 0, 0, 0.5);
         z-index: -1;
-        border-radius: 10px;
+        transition: background-color 0.3s ease;
     }
     &:hover {
+        z-index: 100;
+        p, h3 {
+            color: $como-groen;
+        }
+        &::after {
+            background-color: $stef-magenta-dark;
+            border-radius: 40% 60% 60% 40% / 70% 30% 70% 30%;
+            animation: morph 10s linear infinite alternate;
+            transform: scale(1.3);
+        }
         .icon {
             i {
                 background-color: $main-color;
@@ -2204,15 +2304,37 @@ Speakers Area CSS
         }
     }
 }
+
+.sponsors-page {
+    .single-speakers-box {
+        aspect-ratio: unset;
+    }
+}
+
+.artists-page {
+    .single-speakers-box {
+        justify-content: start;
+    }
+}
+
+.speaker-wrapper {
+    height: 100%;
+}
+
 .single-speakers-box {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-bottom: 25px;
-    background-color: $white-color;
+    background-color: $como-groen;
     box-shadow: 0 0 1.25rem rgba(108, 118, 134, .1);
+    box-sizing: border-box;
     border-radius: 10px;
     background-repeat: no-repeat;
     background-position: center;
     min-height: 16rem;
+    height: 100%;
+    aspect-ratio: 1/1;
     background-size: cover;
 
     .speakers-image {
@@ -2225,38 +2347,62 @@ Speakers Area CSS
         }
     }
     .speakers-content {
-        padding: 30px 30px 0;
+        padding: 30px;
+        display: flex;
+        align-items: end;
+        height: 100%;
 
         .top-content {
             position: relative;
-            padding-right: 55px;
+            background-color: $stef-magenta-dark;
+            padding: 0.5rem 1rem;
+            border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+            animation: morph 10s linear infinite alternate;
 
             h3 {
                 font-size: 3rem;
                 margin-bottom: 10px;
 
-                color: $optional-color;
+                color: $stef-magenta;
                 transition: $transition;
-                text-shadow: 2px 2px $black-color, -2px -2px $partytent-wit;
+                word-break: break-word;
 
             }
             b {
                 font-size: $font-size;
-                color: $paragraph-color;
+                color: $stef-magenta;
                 font-weight: 500;
                 display: inline-block;
                 margin-bottom: 10px;
             }
             p {
-                color: $black-color;
+                color: $stef-magenta;
                 font-weight: 500;
                 font-size: $font-size;
                 font-family: $heading-font-family;
 
                 a {
-                    color: $paragraph-color;
+                    color: $stef-magenta;
                 }
             }
+
+            .artist-details {
+                display: flex;
+                align-items: flex-start;
+                width: max-content;
+                list-style: none;
+                gap: 0.5rem;
+                margin: 0;
+                background-color: $como-groen-dark;
+                padding: 1rem 0.5rem;
+                border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+                animation: morph 10s linear infinite alternate;
+
+                li {
+                    color: $como-groen;
+                }
+            }
+
             .message-icon {
                 position: absolute;
                 right: 0;
@@ -3806,10 +3952,14 @@ Page Banner CSS
     text-align: center;
 
     h2 {
-        color: #ffffff;
-        text-shadow: 2px 2px $ultra-zwart;
+        color: $stef-magenta;
         margin-bottom: 20px;
-        font-size: 38px;
+        font-size: 5em;
+        border-radius: 40% 60% 60% 40% / 70% 30% 70% 30%;
+        padding: 0.5em 1em;
+        background-color: rgba($stef-magenta-dark, 0.9);
+        display: inline-block;
+        animation: morph 10s linear infinite alternate;
     }
 
     .pages-list {
@@ -3853,6 +4003,15 @@ Page Banner CSS
                 }
             }
         }
+    }
+}
+
+@keyframes morph {
+    0% {
+        border-radius: 40% 60% 60% 40% / 70% 30% 70% 30%;
+    }
+    100% {
+        border-radius: 40% 60%;
     }
 }
 
@@ -4114,10 +4273,15 @@ Speakers Details Area CSS
 }
 .speakers-details-content {
     padding-left: 30px;
+    color: $stef-magenta;
 
     h3 {
         font-size: 30px;
         margin-bottom: 15px;
+        color: $stef-magenta;
+    }
+    p {
+        color: $stef-magenta;
     }
     span {
         font-style: $font-size;
@@ -4134,7 +4298,7 @@ Speakers Details Area CSS
         li {
             list-style-type: none;
             font-size: 18px;
-            color: $paragraph-color;
+            color: $stef-magenta;
             font-weight: 500;
             margin-bottom: 20px;
             font-family: $heading-font-family;
@@ -4142,7 +4306,7 @@ Speakers Details Area CSS
             padding-left: 28px;
 
             a {
-                color: $paragraph-color;
+                color: $stef-magenta;
             }
             i {
                 position: absolute;
@@ -6042,7 +6206,6 @@ Products Details CSS
                 font-weight: 500;
                 color: $main-color;
                 transition: $transition;
-                border-radius: 0;
                 font-family: $heading-font-family;
                 border-radius: 5px;
 
@@ -6180,6 +6343,21 @@ Products Details CSS
                 }
             }
         }
+    }
+}
+
+.ploegen-diensten {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+    // For tablet devices
+    @media (max-width: 900px) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    // For mobile devices
+    @media (max-width: 576px) {
+        grid-template-columns: repeat(1, 1fr);
     }
 }
 
@@ -6585,19 +6763,31 @@ Copy Right Area CSS
 .copyright-area {
     padding-top: 35px;
     padding-bottom: 35px;
-    background-color: $gras-geel;
+    background-color: $como-groen;
+    font-family: $main-font-family;
 
     .copyright-area-content {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;
+
+        .copyright-logo {
+            z-index: 100;
+        }
+
         p {
-            color: $ultra-zwart;
+            font-family: $main-font-family;
+            color: $stef-magenta;
+            z-index: 100;
 
             a {
                 display: inline-block;
                 font-weight: 600;
-                color: $main-color;
+                color: $stef-magenta;
 
                 &:hover {
-                    color: $como-groen;
+                    color: $stef-magenta-dark;
                 }
             }
         }
@@ -6633,10 +6823,10 @@ Copy Right Area CSS
 
                 a {
                     display: inline-block;
-                    color: $ultra-zwart;
+                    color: $stef-magenta;
 
                     &:hover {
-                        color: $como-groen;
+                        color: $stef-magenta-dark;
                     }
                 }
                 &::before {
@@ -6647,7 +6837,7 @@ Copy Right Area CSS
                     left: 0;
                     width: 10px;
                     height: 10px;
-                    background: $como-groen;
+                    background: $stef-magenta;
                     border-radius: 50px;
                 }
                 &:last-child {
@@ -6704,3 +6894,5 @@ Go Top CSS
         transform: translateY(-5px);
     }
 }
+
+

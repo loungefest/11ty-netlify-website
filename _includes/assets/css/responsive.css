@@ -2,28 +2,34 @@
   p {
     font-size: 15px;
   }
+
   .ptb-100 {
     padding-top: 50px;
     padding-bottom: 50px;
   }
+
   .pt-100 {
     padding-top: 50px;
   }
+
   .pb-100 {
     padding-bottom: 50px;
   }
+
   .pb-75 {
     padding-bottom: 25px;
   }
+
   .section-title span {
     font-size: 14px;
   }
   .section-title h2 {
     font-size: 25px;
   }
+
   .mean-container a.meanmenu-reveal span {
     display: block;
-    background: #000;
+    background: #e84abf;
     height: 4px;
     margin-top: -5px;
     border-radius: 3px;
@@ -35,8 +41,9 @@
     border-bottom: none;
   }
   .mean-container .mean-nav {
-    margin-top: 50px;
+    margin-top: 0;
   }
+
   .main-slides-item {
     padding-top: 70px;
     padding-bottom: 150px;
@@ -55,20 +62,19 @@
     z-index: -1;
     opacity: 0.77;
   }
+
   .main-slides-content .sub-title {
     font-size: 14px;
     padding: 8px 25px;
   }
-  .main-slides-content h1 {
-    font-size: 30px;
+  .main-slides-content .head-title {
+    font-size: 4em;
   }
   .main-slides-content .slides-btn {
     margin-top: 25px;
   }
   .main-slides-content .slides-btn .default-btn {
-    padding: 10px 10px;
-    font-size: 14px;
-    margin-right: 5px;
+    font-size: 1.5em;
   }
   .main-slides-content .slides-btn .default-btn i {
     display: none;
@@ -85,6 +91,7 @@
     font-size: 10px;
     margin-right: 5px;
   }
+
   .home-slides.owl-theme .owl-nav {
     margin-top: 0;
   }
@@ -102,13 +109,16 @@
     left: auto;
     right: 0;
   }
+
   .intro-area {
     margin-top: 0;
     padding-top: 50px;
   }
+
   .single-intro-box h3 {
     font-size: 18px;
   }
+
   .single-events-schedules .events-content {
     padding: 20px;
   }
@@ -118,6 +128,7 @@
   .single-events-schedules .events-content .bottom-content .book-btn {
     display: none;
   }
+
   .expect-item .icon i {
     height: 65px;
     width: 65px;
@@ -127,12 +138,14 @@
   .expect-item h3 {
     font-size: 18px;
   }
+
   .fun-fact-inner-box {
     margin-left: 0;
   }
   .fun-fact-inner-box .fun-fact-box.bottom-0 {
     margin-bottom: 25px;
   }
+
   .experience-content {
     padding-right: 0;
     margin-bottom: 30px;
@@ -143,6 +156,7 @@
   .experience-content h3 {
     font-size: 25px;
   }
+
   .experience-area {
     padding-bottom: 25px;
   }
@@ -152,12 +166,14 @@
   .experience-area::after {
     display: none;
   }
+
   .single-speakers .speakers-content {
     text-align: center;
   }
   .single-speakers .speakers-content h3 {
     font-size: 18px;
   }
+
   .announcement-soon-content #timer div {
     width: 100px;
     height: 105px;
@@ -176,9 +192,11 @@
   .announcement-soon-content h2 {
     font-size: 22px;
   }
+
   .single-benefits h3 {
     font-size: 18px;
   }
+
   .single-pricing-table .pricing-header {
     padding: 20px 30px;
   }
@@ -188,6 +206,7 @@
   .single-pricing-table .price {
     font-size: 35px;
   }
+
   .testimonial-item .icon {
     top: 15%;
     transform: translateY(-15%);
@@ -198,6 +217,7 @@
   .testimonial-item .rating-list li i {
     font-size: 15px;
   }
+
   .single-blog .blog-image .tag {
     right: 10px;
     bottom: 10px;
@@ -205,19 +225,23 @@
   .single-blog .blog-content h3 {
     font-size: 18px;
   }
+
   .overview-content span {
     font-size: 14px;
   }
   .overview-content h3 {
     font-size: 20px;
   }
+
   .overview-btn {
     text-align: left;
     margin-top: 30px;
   }
+
   .single-footer-widget h3 {
     font-size: 18px;
   }
+
   .copyright-area-content {
     text-align: center;
   }
@@ -225,6 +249,7 @@
     text-align: center;
     margin-top: 10px;
   }
+
   .main-banner-content {
     text-align: start;
     margin-top: 0;
@@ -259,21 +284,21 @@
     font-size: 10px;
     margin-right: 5px;
   }
+
   .main-banner-image {
     text-align: center;
     margin-top: 30px;
   }
+
   .events-content-box h3 {
     font-size: 18px;
   }
   .events-content-box .bottom-content .book-btn .book-btn-one {
     display: none;
   }
+
   .single-speakers-box .speakers-content {
     padding: 28px 18px 0;
-  }
-  .single-speakers-box .speakers-content .top-content h3 {
-    font-size: 20px;
   }
   .single-speakers-box .speakers-content .top-content .message-icon {
     display: none;
@@ -282,6 +307,7 @@
     font-size: 15px;
     padding: 8px 25px;
   }
+
   .testimonial-item-box {
     padding: 25px;
   }
@@ -291,6 +317,7 @@
   .testimonial-item-box .icon {
     display: none;
   }
+
   .single-blog-box .blog-image .tag {
     left: 20px;
     top: 20px;
@@ -301,6 +328,7 @@
   .single-blog-box .blog-content h3 {
     font-size: 20px;
   }
+
   .single-side-blog .blog-image {
     height: 240px;
     border-radius: 8px;
@@ -311,12 +339,14 @@
   .single-side-blog .blog-content h3 {
     font-size: 20px;
   }
+
   .main-banner-area-box {
     padding-bottom: 0;
   }
   .main-banner-area-box::before {
     display: none;
   }
+
   .main-banner-content-box h1 {
     font-size: 25px;
   }
@@ -370,10 +400,12 @@
     font-size: 10px;
     margin-right: 5px;
   }
+
   .main-banner-image-wrap {
     margin-top: 35px;
     text-align: center;
   }
+
   .about-us-content {
     padding-left: 0;
     margin-top: 30px;
@@ -384,6 +416,7 @@
   .about-us-content h3 {
     font-size: 22px;
   }
+
   .about-us-image {
     text-align: center;
   }
@@ -393,11 +426,13 @@
   .about-us-image .about-text-wrap h4 {
     font-size: 18px;
   }
+
   .experience-area-with-image .experience-content {
     padding-left: 0;
     margin-bottom: 0;
     margin-top: 30px;
   }
+
   .events-schedules-table {
     padding: 20px 15px;
   }
@@ -419,6 +454,7 @@
   .events-schedules-table .content-btn {
     text-align: left;
   }
+
   .expect-slides.owl-theme:hover .owl-nav [class*=owl-] {
     left: 0px;
   }
@@ -426,6 +462,7 @@
     left: auto;
     right: 0px;
   }
+
   .partner-slides.owl-theme:hover .owl-nav [class*=owl-] {
     left: 0px;
   }
@@ -433,6 +470,7 @@
     left: auto;
     right: 0px;
   }
+
   .testimonial-slides-two.owl-theme:hover .owl-nav [class*=owl-] {
     left: 0px;
   }
@@ -440,6 +478,7 @@
     left: auto;
     right: 0px;
   }
+
   .testimonial-slides.owl-theme:hover .owl-nav [class*=owl-] {
     left: 0px;
   }
@@ -447,6 +486,7 @@
     left: auto;
     right: 0px;
   }
+
   .video-box-image .video-btn {
     width: 50px;
     height: 50px;
@@ -457,13 +497,16 @@
     top: 4px;
     left: 2px;
   }
+
   .page-banner-area {
     padding-top: 85px;
     padding-bottom: 85px;
   }
+
   .page-banner-content h2 {
     font-size: 30px;
   }
+
   .pagination-area {
     margin-top: 15px;
   }
@@ -473,12 +516,14 @@
     line-height: 35px;
     font-size: 12px;
   }
+
   .single-venue .venue-content h3 {
     font-size: 20px;
   }
   .single-venue .venue-content span {
     font-size: 14px;
   }
+
   .event-details-area .widget-area {
     padding-left: 0;
     margin-top: 35px;
@@ -486,15 +531,18 @@
   .event-details-area .widget-area .widget .widget-title {
     font-size: 20px;
   }
+
   .event-details .event-details-header h3 {
     font-size: 20px;
   }
   .event-details .event-details-header .event-info-meta li {
     font-size: 14px;
   }
+
   .speakers-details-image {
     text-align: center;
   }
+
   .speakers-details-content {
     margin-top: 30px;
     padding-left: 0;
@@ -505,6 +553,7 @@
   .speakers-details-content .details-info li {
     font-size: 14px;
   }
+
   .single-products {
     padding: 20px;
   }
@@ -514,6 +563,7 @@
   .single-products .products-content h3 {
     font-size: 20px;
   }
+
   .cart-totals {
     padding: 25px;
     margin-top: 50px;
@@ -521,21 +571,26 @@
   .cart-totals h3 {
     font-size: 20px;
   }
+
   .cart-buttons {
     text-align: center;
   }
   .cart-buttons .default-btn {
     margin-top: 25px;
   }
+
   .user-actions {
     padding: 10px 15px;
   }
+
   .order-details {
     margin-top: 30px;
   }
+
   .products-details-image .slick-dots {
     margin-left: 10px;
   }
+
   .products-details-desc {
     padding-left: 0;
     margin-top: 35px;
@@ -556,6 +611,7 @@
     left: 145px;
     font-size: 12px;
   }
+
   .products-details-tabs {
     margin-top: 65px;
   }
@@ -580,10 +636,12 @@
   .products-details-tabs .tab-content .tab-pane .products-review-form .review-form form {
     padding: 20px;
   }
+
   .partner-title h3 {
     font-size: 22px;
     margin-bottom: 0;
   }
+
   .partner-item {
     -ms-flex: 0 0 50%;
     -webkit-box-flex: 0;
@@ -596,10 +654,12 @@
   .partner-item a {
     padding: 15px;
   }
+
   .partner-area .container.bg-ebebeb {
     padding-top: 50px;
     margin-top: 50px;
   }
+
   .login-form {
     padding: 25px;
   }
@@ -609,21 +669,26 @@
   .login-form form .lost-your-password-wrap {
     text-align: left;
   }
+
   .register-form {
     padding: 25px;
   }
   .register-form h2 {
     font-size: 22px;
   }
+
   .privacy-policy-content h3 {
     font-size: 18px;
   }
+
   .terms-of-service-content h3 {
     font-size: 18px;
   }
+
   .error-content h3 {
     font-size: 20px;
   }
+
   .coming-soon-content {
     padding: 30px 25px;
   }
@@ -641,6 +706,7 @@
   .coming-soon-content h2 {
     font-size: 22px;
   }
+
   .widget-area {
     margin-top: 35px;
   }
@@ -656,6 +722,7 @@
   .widget-area .widget_information h3 {
     font-size: 18px;
   }
+
   .blog-details-desc .article-content .entry-meta li:last-child {
     display: none;
   }
@@ -686,6 +753,7 @@
   .blog-details-desc .article-leave-comment h4 {
     font-size: 22px;
   }
+
   .contact-address {
     margin-left: 0;
     margin-top: 30px;
@@ -699,21 +767,25 @@
     padding-top: 70px;
     padding-bottom: 70px;
   }
+
   .pt-100 {
     padding-top: 70px;
   }
+
   .pb-100 {
     padding-bottom: 70px;
   }
+
   .pb-75 {
     padding-bottom: 45px;
   }
+
   .mean-container a.meanmenu-reveal {
     padding: 5px 0 0 0;
   }
   .mean-container a.meanmenu-reveal span {
     display: block;
-    background: #000;
+    background: #e84abf;
     height: 4px;
     margin-top: -5px;
     border-radius: 3px;
@@ -725,18 +797,18 @@
     border-bottom: none;
   }
   .mean-container .mean-nav {
-    margin-top: 50px;
+    margin-top: 0;
   }
+
   .main-slides-item {
     padding-top: 100px;
     padding-bottom: 180px;
   }
-  .main-slides-content {
-    text-align: start;
-  }
+
   .main-slides-content h1 {
     font-size: 50px;
   }
+
   .home-slides.owl-theme .owl-nav {
     margin-top: 0;
   }
@@ -754,32 +826,38 @@
     left: auto;
     right: 0;
   }
+
   .intro-area {
     margin-top: 0;
     padding-top: 70px;
   }
+
   .single-events-schedules .events-content {
     padding: 20px;
   }
   .single-events-schedules .events-content .bottom-content .book-btn {
     display: none;
   }
+
   .expect-item .icon i {
     height: 65px;
     width: 65px;
     line-height: 65px;
     font-size: 30px;
   }
+
   .fun-fact-inner-box {
     margin-left: 0;
   }
   .fun-fact-inner-box .fun-fact-box.bottom-0 {
     margin-bottom: 25px;
   }
+
   .experience-content {
     padding-right: 0;
     margin-bottom: 30px;
   }
+
   .experience-area {
     padding-bottom: 45px;
   }
@@ -789,6 +867,7 @@
   .experience-area::after {
     display: none;
   }
+
   .announcement-soon-content #timer div {
     width: 100px;
     height: 105px;
@@ -804,9 +883,11 @@
   .announcement-soon-content h2 {
     font-size: 22px;
   }
+
   .single-pricing-table .price {
     font-size: 35px;
   }
+
   .testimonial-item .icon {
     top: 15%;
     transform: translateY(-15%);
@@ -814,14 +895,17 @@
   .testimonial-item .rating-list li i {
     font-size: 15px;
   }
+
   .single-blog .blog-image .tag {
     right: 10px;
     bottom: 10px;
   }
+
   .overview-btn {
     text-align: left;
     margin-top: 30px;
   }
+
   .main-banner-content {
     text-align: start;
     margin-top: 0;
@@ -829,13 +913,16 @@
   .main-banner-content h1 {
     font-size: 50px;
   }
+
   .main-banner-image {
     text-align: center;
     margin-top: 30px;
   }
+
   .events-content-box .bottom-content .book-btn .book-btn-one {
     display: none;
   }
+
   .single-speakers-box .speakers-content {
     padding: 28px 18px 0;
   }
@@ -846,6 +933,7 @@
     font-size: 15px;
     padding: 8px 25px;
   }
+
   .testimonial-item-box {
     padding: 35px;
   }
@@ -855,9 +943,11 @@
   .testimonial-item-box .icon {
     display: none;
   }
+
   .single-blog-box .blog-content h3 {
     font-size: 25px;
   }
+
   .single-side-blog .blog-image {
     height: 240px;
     border-radius: 8px;
@@ -865,29 +955,35 @@
   .single-side-blog .blog-content {
     padding: 20px;
   }
+
   .main-banner-area-box {
     padding-bottom: 0;
   }
   .main-banner-area-box::before {
     display: none;
   }
+
   .main-banner-content-box h1 {
     font-size: 50px;
   }
+
   .main-banner-image-wrap {
     margin-top: 35px;
     text-align: center;
   }
+
   .about-us-content {
     padding-left: 0;
     margin-top: 30px;
   }
+
   .about-us-image {
     text-align: center;
   }
   .about-us-image .about-text-wrap h4 {
     font-size: 18px;
   }
+
   .experience-area-with-image .experience-content {
     padding-left: 0;
     margin-bottom: 0;
@@ -896,6 +992,7 @@
   .experience-area-with-image .experience-content h3 {
     font-size: 35px;
   }
+
   .events-schedules-table .number {
     margin-bottom: 25px;
   }
@@ -911,6 +1008,7 @@
   .events-schedules-table .content-btn {
     text-align: left;
   }
+
   .expect-slides.owl-theme:hover .owl-nav [class*=owl-] {
     left: 0px;
   }
@@ -918,6 +1016,7 @@
     left: auto;
     right: 0px;
   }
+
   .partner-slides.owl-theme:hover .owl-nav [class*=owl-] {
     left: 0px;
   }
@@ -925,6 +1024,7 @@
     left: auto;
     right: 0px;
   }
+
   .testimonial-slides-two.owl-theme:hover .owl-nav [class*=owl-] {
     left: 0px;
   }
@@ -932,6 +1032,7 @@
     left: auto;
     right: 0px;
   }
+
   .testimonial-slides.owl-theme:hover .owl-nav [class*=owl-] {
     left: 0px;
   }
@@ -939,13 +1040,16 @@
     left: auto;
     right: 0px;
   }
+
   .event-details-area .widget-area {
     padding-left: 0;
     margin-top: 35px;
   }
+
   .speakers-details-image {
     text-align: center;
   }
+
   .speakers-details-content {
     margin-top: 30px;
     padding-left: 0;
@@ -953,20 +1057,25 @@
   .speakers-details-content .details-info li {
     font-size: 14px;
   }
+
   .user-actions {
     padding: 10px 15px;
   }
+
   .order-details {
     margin-top: 30px;
   }
+
   .products-details-desc {
     padding-left: 0;
     margin-top: 35px;
   }
+
   .partner-area .container.bg-ebebeb {
     padding-top: 70px;
     margin-top: 70px;
   }
+
   .widget-area {
     margin-top: 35px;
   }
@@ -982,6 +1091,7 @@
   .widget-area .widget_information h3 {
     font-size: 18px;
   }
+
   .contact-address {
     margin-left: 0;
     margin-top: 30px;
@@ -996,7 +1106,7 @@
   }
   .mean-container a.meanmenu-reveal span {
     display: block;
-    background: #000;
+    background: #e84abf;
     height: 4px;
     margin-top: -5px;
     border-radius: 3px;
@@ -1009,42 +1119,45 @@
     padding-top: 0;
   }
   .mean-container .mean-nav {
-    margin-top: 50px;
+    margin-top: 0;
   }
+
   .main-slides-content .slides-btn .optional-btn {
     position: relative;
     top: -10px;
   }
+
   .single-intro-box {
     padding: 20px;
   }
   .single-intro-box h3 {
     font-size: 20px;
   }
+
   .single-events-schedules .events-content .bottom-content .book-btn {
     display: none;
   }
+
   .single-speakers .speakers-content h3 {
     font-size: 22px;
   }
+
   .single-benefits h3 {
     font-size: 20px;
   }
+
   .single-blog .blog-content h3 {
     font-size: 22px;
   }
+
   .main-banner-content h1 {
     font-size: 45px;
   }
+
   .events-content-box .bottom-content .book-btn {
     display: none;
   }
-  .single-speakers-box .speakers-content {
-    padding: 25px 20px 0;
-  }
-  .single-speakers-box .speakers-content .top-content h3 {
-    font-size: 20px;
-  }
+
   .single-fun-fact {
     padding: 30px 20px 30px 95px;
   }
@@ -1057,6 +1170,7 @@
   .single-fun-fact p {
     font-size: 12px;
   }
+
   .single-side-blog .blog-content {
     padding: 10px 5px 10px 0;
   }
@@ -1074,23 +1188,28 @@
   .single-side-blog .blog-content p {
     font-size: 14px;
   }
+
   .main-banner-content-box h1 {
     font-size: 45px;
   }
+
   .main-banner-content-box .banner-soon-content #timer div {
     height: 100px;
     width: 90px;
     padding-top: 15px;
   }
+
   .about-us-image .about-text-wrap {
     padding: 15px;
   }
   .about-us-image .about-text-wrap h4 {
     font-size: 18px;
   }
+
   .about-us-content h3 {
     font-size: 28px;
   }
+
   .fun-fact-inner-box .fun-fact-box {
     padding: 30px;
   }
@@ -1101,6 +1220,7 @@
     transform: unset;
     margin-bottom: 20px;
   }
+
   .events-schedules-table {
     padding: 25px 15px;
   }
@@ -1111,22 +1231,26 @@
   .events-schedules-table .content-btn .default-btn i {
     left: 12px;
   }
+
   .single-venue .venue-content h3 {
     font-size: 20px;
   }
   .single-venue .venue-content span {
     font-size: 14px;
   }
+
   .event-details-area .widget-area {
     padding-left: 15px;
     margin-top: 130px;
   }
+
   .speakers-details-content {
     padding-left: 0;
   }
   .speakers-details-content .details-info li {
     font-size: 15px;
   }
+
   .single-products {
     padding: 20px;
   }
@@ -1136,6 +1260,7 @@
   .single-products .products-content h3 {
     font-size: 20px;
   }
+
   .products-details-desc {
     padding-left: 10px;
   }
@@ -1143,6 +1268,7 @@
     font-size: 30px;
     margin-bottom: 20px;
   }
+
   .products-details-image .slick-dots {
     margin-left: 20px;
   }

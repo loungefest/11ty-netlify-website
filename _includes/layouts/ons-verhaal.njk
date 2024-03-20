@@ -15,14 +15,9 @@ section: ons-verhaal
 
 <!-- Start Expect Area -->
 {% set ploegenlist = collections.ploegen %}
-<div class="expect-area ptb-100">
-    <div class="container">
-        <div class="section-title">
-            <h2>Onze Ploegen</h2>
-        </div>
-
-
-        <div class="expect-slides owl-carousel owl-theme">
+<div class="expect-area">
+    <div>
+        <div class="ploegen-diensten">
             {% for ploeg in ploegenlist %}
                 <div class="expect-item" style="background-image: url('{{ ploeg.data.thumbnail }}'); background-repeat: no-repeat; background-position: center; background-size: cover;">
                     <h3>
