@@ -2310,6 +2310,10 @@ Speakers Area CSS
 .sponsors-page {
     .single-speakers-box {
         aspect-ratio: unset;
+
+        h3 {
+            text-align: center;
+        }
     }
 }
 
@@ -2368,7 +2372,7 @@ Speakers Area CSS
                 color: $stef-magenta;
                 transition: $transition;
                 word-break: break-word;
-
+                hyphens: auto;
             }
             b {
                 font-size: $font-size;
