@@ -1742,6 +1742,7 @@ Expect Area CSS
   padding: 25px 22px;
   position: relative;
   z-index: 10;
+  overflow: hidden;
 }
 .expect-item .icon {
   margin-bottom: 20px;
