@@ -34,7 +34,7 @@ section: artists
         <div class="row justify-content-center">
             {% for artist in artistlist %}
                 <div class="col-md-6 speaker-wrapper" data-tag="{{ artist.data.day }}">
-                    <a href="{{ artist.url }}" class="single-speakers-box" style="{{ backgroundImage: "url(" + artist.data.image + ")"}}">
+                    <a href="{{ artist.url }}" class="single-speakers-box" style="background-image: url('{{ artist.data.image }}')">
                         <div class="speakers-content">
                             <div class="top-content">
                                 <h3>
