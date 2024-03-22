@@ -2,9 +2,9 @@
 title: NIGHTWATCH
 thumbnail: /static/img/nightwatch3-01.jpg
 ---
-Roan, Tim, Rintje,
+Roan, Tim, Rintje, 
 
-Thijs, Daniel, Mike,
+Desiree, Thijs, Daniel, Mike, 
 
 Daan, Mark, Vincent,
 
