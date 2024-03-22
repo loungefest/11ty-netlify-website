@@ -2,14 +2,12 @@
 title: INFRA
 thumbnail: /static/img/infracrew.jpg
 ---
-Jaap,﻿ Teun K, Ad,
+Jaap,﻿ Teun K, Ad, D﻿ave, 
 
-D﻿ave, Harm, Teun A, 
+Harm, Teun A, L﻿uuk, 
 
-L﻿uuk, Joey, Peter-Jan,
+Joey, Peter-Jan, T﻿eun G, 
 
-T﻿eun G, Bas, Christiaan,
-
-M﻿enno <-- snuffelstage
+Bas, Christiaan, M﻿enno 
 
 *"﻿Speel jij soms honkbal?"*
