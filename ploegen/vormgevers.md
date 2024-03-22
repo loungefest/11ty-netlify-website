@@ -4,8 +4,8 @@ thumbnail: /static/img/vormgevers.jpeg
 ---
 Thomas, Juliette, 
 
-Aike, D﻿ave, 
+Aike, D﻿ave, Lars
 
-Roosje, Lars
+Roosje, Meike
 
 *W﻿ie niet komt is gek!*
