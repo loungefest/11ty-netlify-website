@@ -2,12 +2,10 @@
 title: Artiestenbegeleiding
 thumbnail: /static/img/hospitality.jpg
 ---
-Maartje
+Maartje, Lise, N﻿athalie, 
 
-Lise
+N﻿ina, Roel, Roos, 
 
-N﻿athalie
-
-N﻿ina
+N﻿athalie, Fleur
 
 hospitality@loungefest.nl
