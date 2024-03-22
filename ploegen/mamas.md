@@ -1,10 +1,10 @@
 ---
-title: MAMAS
+title: MAPA'S
 thumbnail: /static/img/mama-s.jpeg
 ---
-C﻿hrista, N﻿oa﻿, L﻿iselotte
+N﻿oa﻿, Sjoerd
 
-J﻿uliette, Laure, Leona, Sophie
+Laure, Leona, Sophie
 
 Kevin, S﻿usy, Miquitte
 
