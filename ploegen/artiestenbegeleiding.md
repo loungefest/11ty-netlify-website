@@ -1,5 +1,5 @@
 ---
-title: HOSPITALITY
+title: Artiestenbegeleiding
 thumbnail: /static/img/hospitality.jpg
 ---
 Maartje
