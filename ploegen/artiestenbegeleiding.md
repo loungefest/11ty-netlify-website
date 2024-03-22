@@ -6,8 +6,8 @@ Maartje, Lise, N﻿athalie,
 
 N﻿ina, Roel, Roos, Michelle
 
-Fleur, Guusje, Stijn, Iris
+Fleur B, Guusje, Stijn, Iris
 
-F﻿leur, E﻿smee, Marjolein
+F﻿leur K, E﻿smee, Marjolein
 
 hospitality@loungefest.nl
