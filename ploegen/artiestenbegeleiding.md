@@ -4,12 +4,10 @@ thumbnail: /static/img/hospitality.jpg
 ---
 Maartje, Lise, N﻿athalie, 
 
-N﻿ina, Roel, Roos, 
+N﻿ina, Roel, Roos, Michelle
 
-N﻿athalie, Fleur, Guusje, 
+Fleur, Guusje, Stijn, Iris
 
-F﻿leur, Michelle, Stijn
-
-E﻿smee, Marjolein, Iris
+F﻿leur, E﻿smee, Marjolein
 
 hospitality@loungefest.nl
