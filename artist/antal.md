@@ -10,5 +10,4 @@ Wellicht heb je Antal wel eens zien spelen op Nederlands’ bekendste house & te
 
 
 
-“Often, the best nights are the ones where I feel I can play anything, no matter how
-sharp my selection is.”
+“Often, the best nights are the ones where I feel I can play anything, no matter how sharp my selection is.”
