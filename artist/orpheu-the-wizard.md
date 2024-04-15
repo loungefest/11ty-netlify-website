@@ -1,5 +1,5 @@
 ---
-name: Orpheu the Wizard
+name: ORPHEU THE WIZARD
 genre: Techno
 day: zaterdag
 time: 15:30-18:00
