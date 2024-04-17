@@ -1,0 +1,28 @@
+---
+layout: layouts/base.njk
+section: editie-tien
+---
+
+<!-- Start Page Banner -->
+<div class="artist-banner-area">
+    <div class="container">
+        <div class="page-banner-content">
+            <h2>{{ title }}</h2>
+        </div>
+    </div>
+</div>
+<!-- End Page Banner -->
+
+<!-- Start Expect Area -->
+{{ layoutContent | safe }}
+{% set edities = collections.edities %}
+<div class="edities">
+    {% for editie in edities %}
+        <div class="editie">
+            <h3>{{ editie.data.title }} ({{ editie.data.year }})</h3>
+            <iframe src="https://www.youtube.com/embed/{{ editie.data.youtubecode }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    {% endfor %}
+</div>
+<!-- End Expect Area -->
+<!-- Ben??? -->

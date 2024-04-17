@@ -1,0 +1,7 @@
+{
+    "layout": "layouts/edities.njk",
+    "permalink": "info/{{ title | slug }}/index.html",
+    "tags": [
+        "edities"
+    ]
+}
