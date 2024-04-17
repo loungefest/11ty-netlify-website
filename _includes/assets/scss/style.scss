@@ -769,15 +769,15 @@ Navbar Area CSS
         transition: $transition;
     }
 
-    body.homepage-page & {
-        .navbar-brand {
-            display: none;
-        }
-
-        .others-options {
-            display: none !important;
-        }
-    }
+    //body.homepage-page & {
+    //    .navbar-brand {
+    //        display: none;
+    //    }
+    //
+    //    .others-options {
+    //        display: none !important;
+    //    }
+    //}
 }
 .others-option-for-responsive {
     display: none;
@@ -885,11 +885,11 @@ Navbar Area CSS
 
             &.mean-container {
                 .logo.col {
-                    flex: 1;
+                    flex: 2;
                 }
 
                 .price-mobile-btn.col {
-                    flex: 1;
+                    flex: 2;
                 }
 
                 .ben-is-gay.col {
@@ -998,10 +998,6 @@ Navbar Area CSS
         }
         .logo {
             position: relative;
-
-            img {
-                max-width: 130px !important;
-            }
         }
     }
     .navbar-area {

@@ -675,12 +675,6 @@ Navbar Area CSS
   animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
   transition: 0.6s;
 }
-body.homepage-page .navbar-area .navbar-brand {
-  display: none;
-}
-body.homepage-page .navbar-area .others-options {
-  display: none !important;
-}
 
 .others-option-for-responsive {
   display: none;
@@ -769,10 +763,10 @@ body.homepage-page .navbar-area .others-options {
     position: relative;
   }
   .main-responsive-nav .main-responsive-menu.mean-container .logo.col {
-    flex: 1;
+    flex: 2;
   }
   .main-responsive-nav .main-responsive-menu.mean-container .price-mobile-btn.col {
-    flex: 1;
+    flex: 2;
   }
   .main-responsive-nav .main-responsive-menu.mean-container .ben-is-gay.col {
     flex: 3;
@@ -861,9 +855,6 @@ body.homepage-page .navbar-area .others-options {
   }
   .main-responsive-nav .logo {
     position: relative;
-  }
-  .main-responsive-nav .logo img {
-    max-width: 130px !important;
   }
 
   .navbar-area {
