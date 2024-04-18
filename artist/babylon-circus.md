@@ -11,5 +11,4 @@ Begonnen als een ‘ska band’, is het sindsdien ingewikkeld om ze in te delen:
 
 Helaas zal Babylon Circus niet veel langer door gaan met optreden!
 
-Aldus Babylon Circus:
-‘We willen een “laatste ronde” doen. Het is een beetje zoals het maken van een rondreis door de familie voordat je naar een ver land verhuist... oude vrienden zien, nichtjes en jonge neefjes ontmoeten!’
+Wij zijn super trots! Kom dit zien!
