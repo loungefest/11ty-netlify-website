@@ -1,6 +1,6 @@
 ---
 name: ELECTRIC SIX
-genre: Rock
+genre: Rock, Dance, Electronic
 day: vrijdag
 time: 22:15 - 23:30
 youtube: https://www.youtube.com/watch?v=IslF_EyhMzg
