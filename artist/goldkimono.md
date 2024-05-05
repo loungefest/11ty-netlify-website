@@ -1,8 +1,8 @@
 ---
 name: GOLDKIMONO
-genre: Vibe
+genre: Pop, Indie, Hiphop
 day: vrijdag
-time: 20:45-21:45
+time: 20:35-21:35
 youtube: https://www.youtube.com/watch?v=ggN6stcQdw8
 image: /static/img/goldkimono-website.jpg
 ---
