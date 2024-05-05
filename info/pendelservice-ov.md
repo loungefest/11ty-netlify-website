@@ -1,16 +1,12 @@
 ---
 title: PENDELSERVICE & OV
 ---
-De Loungefest pendelservice is actief op vrijdag en zaterdag!
+De Loungefest pendelservice is op vrijdag en zaterdag actief op de onderstaande routes!
 
-* treinstation Sassenheim
-* treinstation Voorhout
-* busstation 'De Brink' Noordwijkerhout 
+* Leiden Centraal station – Loungefest. \
+  Zonder tussenstops, binnen 30 minuten met je voetjes in het zand en een biertje in de hand. \
+  Vertrekt om het uur.
+* Busstation ‘De Brink’ Noordwijkerhout – Loungefest. \
+  Rijdt continu op en neer.
 
-**Pendelservice station Sassenheim – Loungefest**
-
-**Pendelservice station Voorhout – Loungefest**
-
-**Pendelservice Brink – Loungefest**
-
-**Pendelservice Loungefest - station Voorhout en station Sassenheim**
+De precieze tijden volgen snel
