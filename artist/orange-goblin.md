@@ -4,7 +4,7 @@ genre: Heavy Metal
 day: zaterdag
 time: 21:00 - 22:15
 youtube: https://www.youtube.com/watch?v=KAHokhIHYuY
-image: /static/img/lf-logo-vierkant-paars-roze.svg
+image: /static/img/klein.jpg
 ---
 Deze stonermetalband uit London zal op zaterdag 13 juli het Adanses podium op z’n kop zetten!\
 Ze zijn in 1994 opgericht en worden nu beschouwd als een van de belangrijkste stonerbands van Engeland.\
