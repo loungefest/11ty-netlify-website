@@ -116,10 +116,17 @@ Default CSS
 }
 
 .bg-kenny-blauw {
+  color: #241f47 !important;
   background-color: #6194cf !important;
 }
 
+.bg-stef-magenta {
+  color: #c2e800 !important;
+  background-color: #e84abf !important;
+}
+
 .bg-como-groen {
+  color: #6b0f54 !important;
   background-color: #c2e800 !important;
 }
 
@@ -2099,6 +2106,7 @@ Speakers Area CSS
 .single-speakers-box .speakers-content .top-content h3 {
   font-size: 3rem;
   margin-bottom: 10px;
+  font-family: "Salina Trail Bold", serif;
   color: #e84abf;
   transition: 0.6s;
   word-break: break-word;
@@ -3949,7 +3957,7 @@ FAQ Area CSS
   margin-bottom: 0;
   border-radius: 0 !important;
   border-bottom: 1px solid #eeeeee !important;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "Salina Trail Bold", serif;
 }
 .faq-accordion .accordion-item .accordion-button {
   background-color: #ebe6dd;

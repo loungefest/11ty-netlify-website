@@ -23,7 +23,7 @@ section: info
             <div class="accordion" id="FaqAccordion">
                 {% for list in infolist | reverse %}
                     <div class="accordion-item">
-                        <button class="accordion-button collapsed {{ ['bg-gras-geel', 'bg-baby-oranje', 'bg-kenny-blauw', 'bg-como-groen'] | random }}" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ loop.index }}" aria-expanded="false" aria-controls="collapse{{ loop.index }}">
+                        <button class="accordion-button collapsed {{ ['bg-stef-magenta', 'bg-kenny-blauw', 'bg-como-groen'] | random }}" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ loop.index }}" aria-expanded="false" aria-controls="collapse{{ loop.index }}">
                             {{ list.data.title }}
                         </button>
                         <div id="collapse{{ loop.index }}" class="accordion-collapse collapse" data-bs-parent="#FaqAccordion">

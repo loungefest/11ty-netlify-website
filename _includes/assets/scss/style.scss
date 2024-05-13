@@ -135,7 +135,7 @@ $transition: .6s;
 
 }
 .bg-gras-geel {
-    background-color: $gras-geel !important
+    background-color: $gras-geel !important;
 }
 
 .bg-baby-oranje {
@@ -143,10 +143,17 @@ $transition: .6s;
 }
 
 .bg-kenny-blauw {
+    color: $kenny-blauw-dark !important;
     background-color: $kenny-blauw !important;
 }
 
+.bg-stef-magenta {
+    color: $como-groen !important;
+    background-color: $stef-magenta !important;
+}
+
 .bg-como-groen {
+    color: $stef-magenta-dark !important;
     background-color: $como-groen !important;
 }
 
@@ -2379,7 +2386,7 @@ Speakers Area CSS
             h3 {
                 font-size: 3rem;
                 margin-bottom: 10px;
-
+                font-family: $main-font-family;
                 color: $stef-magenta;
                 transition: $transition;
                 word-break: break-word;
@@ -4457,7 +4464,7 @@ FAQ Area CSS
         margin-bottom: 0;
         border-radius: 0 !important;
         border-bottom: 1px solid #eeeeee !important;
-        font-family: $heading-font-family;
+        font-family: $main-font-family;
 
         .accordion-button {
             background-color: $white-color;
