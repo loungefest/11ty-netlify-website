@@ -1,9 +1,7 @@
 ---
 title: FIETS
 ---
-Kom je met de fiets? Er is een fietsenstalling ingericht op een openbare parkeerplaats (naast Como & Co).
+Kom je met de fiets?
 
-Navigeer naar:
-
-Boekhorsterweg 18\
-2211 AL, Noordwijkerhout
+1. Parkeer (gratis) in de fietsenstalling, navigatieadres: Boekhorsterweg 18 2211 AL, Noordwijkerhout
+2. Loop vanaf hier naar Loungefest
