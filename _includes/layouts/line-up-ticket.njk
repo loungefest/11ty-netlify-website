@@ -1,0 +1,32 @@
+---
+layout: layouts/base.njk
+section: line-up-ticket
+---
+
+{{ layoutContent | safe }}
+{% set artistlist = collections.artist %}
+
+<div class="line-up-ticket-page">
+    <div class="line-up-ticket-content">
+        <img src="/static/img/lf-logo-vierkant-lime-paars.svg" width="336" height="317" />
+        <h1 class="line-up-title">{{ loungefest_date }}</h1>
+        <h4 class="line-up-subtitle">{{ subtitle }}</h4>
+
+        <div>
+            <a href="/kaartverkoop" class="default-btn">{{button_title}}<span></span></a>
+        </div>
+
+        <div class="line-up-block">
+            <ul>
+                {% for artist in artistlist %}
+                    <li>
+                        <h2>{{ artist.data.name }}</h2>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <div class="line-up-background-image">
+        <img src="{{ thumbnail }}">
+    </div>
+</div>

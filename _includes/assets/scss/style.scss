@@ -5950,6 +5950,129 @@ Checkout Area CSS
     }
 }
 
+
+.line-up-ticket-page {
+    padding: 4rem 0;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    .line-up-background-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.6);
+        z-index: 1;
+        opacity: 0.5;
+        filter: blur(5px);
+
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+
+    .line-up-ticket-content {
+        z-index: 2;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        color: $white-color;
+
+        .line-up-title {
+            font-size: 4em;
+            text-align: center;
+            padding: 0 1rem;
+        }
+
+        .line-up-subtitle {
+            text-align: center;
+            padding: 0 1rem;
+        }
+
+        .default-btn {
+            font-size: 2em;
+            border-radius: 50px;
+            padding: 0.5em 1.5em;
+            margin: 2rem 1rem 0;
+        }
+
+        h1, h2, h3, h4, h5 {
+            color: $white-color;
+        }
+
+        .line-up-block {
+            width: 100%;
+            margin-top: 2rem;
+
+            ul {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                padding: 0 1rem;
+                margin: 0;
+                list-style-type: none;
+
+                li {
+                    margin-right: 2rem;
+                    padding-left: 3rem;
+                    position: relative;
+                    text-align: center;
+                    word-break: break-word;
+
+                    @media (max-width: 480px) {
+                        width: 100%;
+                        margin-right: 0;
+                        padding-left: 2rem;
+                        padding-right: 2rem;
+                    }
+
+                    &::before {
+                        content: '•';
+                        position: absolute;
+                        left: 0;
+                        top: 50%;
+                        color: $white-color;
+                        font-size: 4em;
+                        line-height: 0.2;
+                        @media (max-width: 480px) {
+                            font-size: 2em;
+                        }
+                    }
+
+                    @media (max-width: 480px) {
+                    &::after {
+                        content: '•';
+                        position: absolute;
+                        right: 0;
+                        top: 50%;
+                        color: $white-color;
+                        font-size: 4em;
+                        line-height: 0.2;
+                        @media (max-width: 480px) {
+                            font-size: 2em;
+                        }
+                    }
+                        }
+
+                    h2 {
+                        font-size: 4em;
+
+                        @media (max-width: 480px) {
+                            font-size: 2em;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
 /*================================================
 Products Details CSS
 =================================================*/
