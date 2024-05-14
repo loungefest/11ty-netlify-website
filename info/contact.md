@@ -1,14 +1,11 @@
 ---
 title: CONTACT
 ---
-Loungefest vindt plaats aan het Oosterduinse meer in Noordwijkhout.
-
 * **Voor bezoekers:**\
   Boekhorsterweg 18 \
   2211 AL, Noordwijkerhout\
   Mail algemeen: [info@loungefest.nl](mailto:info@loungefest.nl)\
   Mail tickets: [ticketing@loungefest.nl](mailto:ticketing@loungefest.nl)
-
 * **Financiële zaken:**\
   Naam: Stichting N.Y.C.E.\
   Adres: Leeweg 1, 2211 XZ Noordwijkerhout, Nederland\
@@ -16,5 +13,3 @@ Loungefest vindt plaats aan het Oosterduinse meer in Noordwijkhout.
   Kvk-nummer: 56181655\
   BTW-nummer: NL852008995B01\
   Mail: [administratie@loungefest.nl](mailto:administratie@loungefest.nl)
-
-*Keep in touchy!*
