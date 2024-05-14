@@ -1,4 +1,4 @@
 ---
 title: KLUISJES
 ---
-Er zijn kluisjes te huur (7.50 eu), te vinden bij de ingang!
+Er zijn kluisjes te huur direct naast de ingang!
