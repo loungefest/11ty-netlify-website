@@ -4,7 +4,7 @@ genre: Rock
 day: zaterdag
 time: 19:00 - 19:45
 youtube: https://www.youtube.com/watch?v=LRN5lL4KhYg
-image: /static/img/still.png
+image: /static/img/18_v2.jpg
 ---
 Met trots introduceren wij powervrouw Love3less op het Adanses podium op 13 juli!
 
