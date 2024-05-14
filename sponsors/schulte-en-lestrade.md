@@ -1,3 +1,4 @@
 ---
-name: Schulte en Lestrade
-website:  https://senl.nl/
+name: Schulte & Lestraden
+website: https://senl.nl/
+---
