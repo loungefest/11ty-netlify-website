@@ -2,7 +2,7 @@
 name: KLÉO
 genre: House
 day: Zaterdag
-time: ntb
+time: 14:00-15:30
 youtube: https://www.youtube.com/watch?v=vKxAD2_JuG8
 image: /static/img/14_2.jpg
 ---
