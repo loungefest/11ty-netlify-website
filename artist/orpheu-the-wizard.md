@@ -2,7 +2,7 @@
 name: ORPHEU THE WIZARD
 genre: Techno
 day: zaterdag
-time: 15:30-18:00
+time: 17:30-19:30
 youtube: https://www.youtube.com/watch?v=PqpoKuGC0H8
 image: /static/img/10_v2.jpg
 ---
