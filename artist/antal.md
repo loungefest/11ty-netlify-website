@@ -2,7 +2,7 @@
 name: ANTAL
 genre: Techno / House
 day: zaterdag
-time: 21:00 - 23:30
+time: 21:30 - 23:29
 youtube: https://www.youtube.com/watch?v=JcZFmGkxbb8
 image: /static/img/16_v2.jpg
 ---
