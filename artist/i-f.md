@@ -2,7 +2,7 @@
 name: I-F
 genre: Techno
 day: zaterdag
-time: 18:00-21:00
+time: 19:30-21:30
 youtube: https://www.youtube.com/watch?v=s25JnECb_3Y
 image: /static/img/8_v2.jpg
 ---
