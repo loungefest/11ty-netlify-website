@@ -2,7 +2,7 @@
 name: BANDA ¡CARUMBA!
 genre: Op 't Randje
 day: zaterdag
-time: 17:00 - 18:00
+time: 16:45 - 18:00
 youtube: https://www.youtube.com/watch?v=4OSxWPsSFwc
 image: /static/img/5_bc.jpg
 ---
