@@ -1,5 +1,5 @@
 ---
-name: The Grand East
+name: THE GRAND EAST
 genre: Rock
 day: vrijdag
 time: 19:00 - 19:45
