@@ -1,5 +1,5 @@
 ---
-name: BANDA CARUMBA
+name: BANDA ¡CARUMBA!
 genre: Op 't Randje
 day: zaterdag
 time: 17:00 - 18:00
