@@ -2,7 +2,7 @@
 name: PETE PHILLY & PERQUISITE
 genre: Hip-Hop / Jazz
 day: zaterdag
-time: 18:45 - 19:45
+time: 18:00 - 19:00
 youtube: https://www.youtube.com/watch?v=JTNrRZOQFYk
 image: /static/img/2_v2.jpg
 ---
