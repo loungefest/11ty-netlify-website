@@ -2,7 +2,7 @@
 name: SPLENDID
 genre: Reggae, Soul, Rock
 day: zaterdag
-time: 17:00-18:00
+time: 16:20-17:20
 youtube: https://www.youtube.com/watch?v=5aMlCJl_HvI
 image: /static/img/21.jpg
 ---
