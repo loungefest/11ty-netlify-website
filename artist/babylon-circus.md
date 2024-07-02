@@ -2,7 +2,7 @@
 name: BABYLON CIRCUS
 genre: "French, Ska, Punk, Alternative  "
 day: zaterdag
-time: 20:00 - 21:00
+time: 19:45 - 21:00
 youtube: https://www.youtube.com/watch?v=l6AVgm8AMqU
 image: /static/img/22_v2.jpg
 ---
