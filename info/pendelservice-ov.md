@@ -4,6 +4,7 @@ title: PENDELSERVICE & OV
 De Loungefest pendelservice is op vrijdag en zaterdag actief op de onderstaande routes! Tickets zijn alleen via de website te koop!
 Busstation ‘De Brink’ Noordwijkerhout – Loungefest.
 Rijdt continu op en neer. Vrijdag vanaf 18.00. Zaterdag vanaf 13.00.
+Vanaf Loungefest vertrekt de bus vanaf verhoging tussen Boekhorsterweg/Langevelderweg. (Bus vertrekt niet vanaf parkeerplaats Como en Co).
 
 Leiden Centraal station (centrum zijde: zie foto onderaan) – Loungefest.
 Geen tussenstops.
