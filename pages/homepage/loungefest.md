@@ -1,6 +1,6 @@
 ---
 title: LOUNGEFEST
-loungefest_date: 12 & 13 JULI 2024
+loungefest_date: 18 & 19 JULI 2025
 youtube: https://www.youtube.com/watch?v=8249TbOY_nw?autoplay=1
 button_link: www.loungefest.nl/kaartverkoop
 layout: layouts/home.njk

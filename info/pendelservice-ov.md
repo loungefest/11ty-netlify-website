@@ -11,6 +11,7 @@ Geen tussenstops.
 25 minuten reistijd.
 Vrijdag:
 
+
 * Vertrek vanaf Leiden Centraal: 18:00 – 19:00 – 20:00
 * Vertrek vanaf Loungefest: 21:05 – 22:05 – 23:05 – 00:05
 
