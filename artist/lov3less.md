@@ -2,7 +2,7 @@
 name: LOV3LESS
 genre: Rock
 day: zaterdag
-time: 19:00 - 19:45
+time: 17:15 - 18:00
 youtube: https://www.youtube.com/watch?v=LRN5lL4KhYg
 image: /static/img/18_v2.jpg
 ---

@@ -2,7 +2,7 @@
 name: ORANGE GOBLIN
 genre: Heavy Metal
 day: zaterdag
-time: 21:00 - 22:15
+time: 20:45 - 22:15
 youtube: https://www.youtube.com/watch?v=KAHokhIHYuY
 image: /static/img/12_v2.jpg
 ---

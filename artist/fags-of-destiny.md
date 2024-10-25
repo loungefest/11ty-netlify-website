@@ -2,7 +2,7 @@
 name: FAGS OF DESTINY
 genre: Op 't Randje
 day: zaterdag
-time: 18:45 - 19:45
+time: 19:00 - 19:30
 youtube: www.loungefest.nl
 image: /static/img/4_fags_of_destiny.jpg
 ---

@@ -2,7 +2,7 @@
 name: MAGIC TOM & YURI
 genre: Absurdisme
 day: zaterdag
-time: 20:30-21:00
+time: 21:00-21:50
 youtube: https://www.youtube.com/watch?v=Yw1ssseY15k
 image: /static/img/3.jpg
 ---

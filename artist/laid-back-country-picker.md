@@ -2,7 +2,7 @@
 name: LAID BACK COUNTRY PICKER
 genre: Country
 day: zaterdag
-time: ntb
+time: 15:30 - 16:15
 youtube: https://www.youtube.com/watch?v=37v7PW9hEFU
 image: /static/img/2_lbcp.jpg
 ---
