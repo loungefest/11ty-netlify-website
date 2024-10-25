@@ -7095,3 +7095,21 @@ Go Top CSS
         margin-top: 4rem;
     }
 }
+
+.vacature-details-area {
+    .vacature-details-desc {
+        background-color: $como-groen;
+        padding: 2rem;
+        border-radius: 0.5rem;
+
+        h1, h2, h3, h4, h5 {
+            color: $stef-magenta-dark;
+            font-family: $main-font-family;
+        }
+
+        p {
+            color: $como-groen-dark;
+            font-family: $main-font-family;
+        }
+    }
+}

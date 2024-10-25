@@ -6275,4 +6275,18 @@ Go Top CSS
   margin-top: 4rem;
 }
 
+.vacature-details-area .vacature-details-desc {
+  background-color: #c2e800;
+  padding: 2rem;
+  border-radius: 0.5rem;
+}
+.vacature-details-area .vacature-details-desc h1, .vacature-details-area .vacature-details-desc h2, .vacature-details-area .vacature-details-desc h3, .vacature-details-area .vacature-details-desc h4, .vacature-details-area .vacature-details-desc h5 {
+  color: #6b0f54;
+  font-family: "Salina Trail Bold", serif;
+}
+.vacature-details-area .vacature-details-desc p {
+  color: #69590f;
+  font-family: "Salina Trail Bold", serif;
+}
+
 /*# sourceMappingURL=style.css.map */
