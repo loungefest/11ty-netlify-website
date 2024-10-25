@@ -5,7 +5,6 @@ date: 2024-10-25T10:30:59.942Z
 author: Anonymous
 ---
 
-## Gezocht: organisatielid financiën bij muziekfestival Loungefest in Noordwijkerhout
 Heb jij verstand van accountancy en financieel management? En wil jij altijd al je eigen muziekfestival organiseren? Dat kan gewoon! Lees snel verder.
 
 ## Organisatielid financiën
