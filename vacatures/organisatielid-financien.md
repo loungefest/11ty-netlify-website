@@ -6,6 +6,7 @@ author: Anonymous
 ---
 
 Heb jij verstand van accountancy en financieel management? En wil jij altijd al je eigen muziekfestival organiseren? Dat kan gewoon! Lees snel verder.
+
 Jij gaat aan de slag in de organisatie van het muziekfestival Loungefest. De organisatie bestaat uit 20 hele enthousiaste mensen tussen de 25 en de 40 met ieder een eigen specialisme en taak. Als organisatielid krijg je veel vrijheid om ideeën in te brengen en uit te werken. Je kunt de functie zo indelen als je zelf wil. We vergaderen één keer in de maand met de gehele organisatie en één keer in de maand met het team financiën. De functie is geheel op vrijwillige basis en dus zonder financiële vergoeding.
 
 ## Wat ga je doen?
