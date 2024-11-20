@@ -1,7 +1,7 @@
 ---
-title: Vrijwilliger+ Crowd Services
-metadata: Vrijwilliger+ Crowd Services bij muziekfestival Loungefest in Noordwijkerhout
-slug: vrijwilliger-crowd-services
+title: Vrijwilliger plus Crowd Services
+metadata: Vrijwilliger plus Crowd Services bij muziekfestival Loungefest in Noordwijkerhout
+slug: vrijwilliger-plus-crowd-services
 date: 2024-10-25T10:30:59.942Z
 author: Anonymous
 ---
