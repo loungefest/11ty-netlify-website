@@ -1,5 +1,5 @@
 {
-    "layout": "layouts/vacatures.njk",
+    "layout": "layouts/vacature-detail.njk",
     "permalink": "vacatures/{{ title | slug }}/index.html",
     "author": "Anonymous",
     "tags": [
