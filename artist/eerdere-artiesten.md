@@ -1,7 +1,7 @@
 ---
 name: "VOORGANGERS "
 genre: Werelds
-day: Beide
+day: WIE NIET KOMT IS GEK
 time: 13:00 - 00:00
 youtube: https://www.youtube.com/watch?v=GArMcgqB7ZQ
 image: /static/img/loungefest-logo-paars-roze-rgb.png
