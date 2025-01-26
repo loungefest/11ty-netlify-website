@@ -1,5 +1,5 @@
 ---
-name: EERDERE ARTIESTEN
+name: "VOORGANGERS "
 genre: Werelds
 day: Beide
 time: 13:00 - 00:00
