@@ -15,9 +15,9 @@ section: editie-tien
 
 <!-- Start Expect Area -->
 {{ layoutContent | safe }}
-{% set edities = collections.edities %}
+{% set edities = collections.edities | sort(attribute='data.number') %}
 <div class="edities">
-    {% for editie in edities | reverse %}
+    {% for editie in edities %}
         <div class="editie">
             <h3>{{ editie.data.title }} ({{ editie.data.year }})</h3>
             <iframe src="https://www.youtube.com/embed/{{ editie.data.youtubecode }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
