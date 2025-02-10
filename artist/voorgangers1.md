@@ -40,3 +40,38 @@ image: /static/img/loungefest-logo-paars-roze-rgb.png
 > 3. BANDA CARUMBA
 > 4. DAVEY TURNHOUT
 > 5. UKU VIBES
+>
+> # L﻿OUNGEFEST 2023
+>
+> ## M﻿AIN STAGE
+>
+> 1. ARP FRIQUE & FAMILY
+> 2. THE DARTS (USA)
+> 3. SOPHIE STRAAT
+> 4. CHA WA (USA)
+> 5. ROOTS RIDERS
+> 6. GANGS OF KIN
+> 7. I'M WITH STUPID
+> 8. DE BARON
+>
+> ## A﻿DANSES
+>
+> 1. SMUDGED
+> 2. FFOOSS
+> 3. LE MOTAT
+> 4. FASKE
+> 5. 4TUOZE MATROZE
+>
+> ## L﻿AKE DISCO
+>
+> 1. DAM SWINDLE 
+> 2. SAN SODA
+> 3. HELLIE
+>
+> ## O﻿P 'T RANDJE
+>
+> 1. MAGIC TOM & YURI
+> 2. 4TUOZE MATROZE
+> 3. STEVEN KAZAN
+> 4. FLIEREFLUITERS
+> 5. UKU VIBES
