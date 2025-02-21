@@ -62,8 +62,10 @@ This files table contents are outlined below>>>>>
 /*================================================
 Default CSS
 =================================================*/
+@import url("../css/clash-display.css");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap");
 @font-face {
   font-family: "Salina Trail Bold";
   src: url("../fonts/Salina-Trial-Bold.otf") format("opentype");
@@ -159,7 +161,7 @@ Default CSS
 body {
   padding: 0;
   margin: 0;
-  font-family: "Salina Trail Bold", serif;
+  font-family: "Mulish", serif;
   font-size: 16px;
   background-color: #6b0f54;
   height: 100vh;
@@ -194,7 +196,7 @@ p {
   line-height: 1.8;
   color: #e84abf;
   font-weight: 400;
-  font-family: "Salina Trail Bold", serif;
+  font-family: "Mulish", serif;
   font-size: 16px;
 }
 p:last-child {
@@ -242,7 +244,7 @@ img {
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
   color: #393333;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
   font-weight: normal;
   letter-spacing: 2px;
 }
@@ -334,7 +336,7 @@ Section Title CSS
   display: inline-block;
   margin-bottom: 15px;
   color: #e84abf;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .section-title h2 {
   font-size: 38px;
@@ -456,7 +458,7 @@ Navbar Area CSS
   font-weight: 500;
   padding: 0.25rem;
   transition: 0.6s;
-  font-family: "Salina Trail Bold", serif;
+  font-family: "Mulish", serif;
   border-radius: 30% 70% 70% 30%/30% 30% 70% 70%;
   animation: morph 10s linear infinite alternate;
 }
@@ -959,7 +961,7 @@ Main Slides Area CSS
   color: #ebe6dd;
   max-width: 750px;
   margin: auto;
-  font-family: "Salina Trail Bold", serif;
+  font-family: "Mulish", serif;
   background: rgba(107, 15, 84, 0.5);
   padding: 10px 25px;
   border-radius: 50px;
@@ -1073,7 +1075,7 @@ Main Banner Area CSS
   background: rgba(93, 93, 99, 0.8);
   padding: 10px 25px;
   border-radius: 50px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .main-banner-content h1 {
   font-size: 65px;
@@ -1154,7 +1156,7 @@ Main Banner Area CSS
   margin-bottom: 0;
   padding: 5px 25px;
   border-radius: 50px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
   margin-bottom: 20px;
 }
 .main-banner-content-box h1 {
@@ -1893,7 +1895,7 @@ Experience Area CSS
   font-weight: 500;
   display: inline-block;
   margin-bottom: 15px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
   color: #ebe6dd;
 }
 .experience-content h3 {
@@ -2107,7 +2109,7 @@ Speakers Area CSS
 .single-speakers-box .speakers-content .top-content h3 {
   font-size: 3rem;
   margin-bottom: 10px;
-  font-family: "Salina Trail Bold", serif;
+  font-family: "Mulish", serif;
   color: #e84abf;
   transition: 0.6s;
   word-break: break-word;
@@ -2124,7 +2126,7 @@ Speakers Area CSS
   color: #e84abf;
   font-weight: 500;
   font-size: 16px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .single-speakers-box .speakers-content .top-content p a {
   color: #e84abf;
@@ -2176,7 +2178,7 @@ Speakers Area CSS
   color: #393333;
   font-size: 16px;
   font-weight: 500;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
   margin-bottom: 20px;
 }
 .single-speakers-box .speakers-content .list li:last-child {
@@ -2517,7 +2519,7 @@ Pricing Area CSS
 .single-pricing-table .price {
   font-size: 55px;
   font-weight: bold;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
   margin-bottom: 15px;
 }
 .single-pricing-table .pricing-features-list {
@@ -2869,7 +2871,7 @@ Blog Area CSS
   background-color: #e84abf;
   color: #ebe6dd;
   padding: 8px 15px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
   font-size: 15px;
   border-radius: 5px;
 }
@@ -2889,7 +2891,7 @@ Blog Area CSS
 .single-blog .blog-content .blog-author span {
   font-size: 16px;
   font-weight: 500;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .single-blog .blog-content .blog-author span a {
   color: #e84abf;
@@ -2965,7 +2967,7 @@ Blog Area CSS
   background-color: #e84abf;
   color: #ebe6dd;
   padding: 8px 15px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
   font-size: 15px;
   border-radius: 5px;
 }
@@ -2988,7 +2990,7 @@ Blog Area CSS
 .single-blog-box .blog-content .blog-author span {
   font-size: 16px;
   font-weight: 500;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .single-blog-box .blog-content .blog-author span a {
   color: #ebe6dd;
@@ -3051,7 +3053,7 @@ Blog Area CSS
   background-color: #e84abf;
   color: #ebe6dd;
   padding: 8px 15px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
   font-size: 15px;
   border-radius: 5px;
 }
@@ -3071,7 +3073,7 @@ Blog Area CSS
 .single-side-blog .blog-content .blog-author span {
   font-size: 16px;
   font-weight: 500;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .single-side-blog .blog-content .blog-author span a {
   color: #e84abf;
@@ -3142,7 +3144,7 @@ Overview Area CSS
   display: inline-block;
   margin-bottom: 15px;
   color: #ebe6dd;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .overview-content h3 {
   font-size: 38px;
@@ -3260,7 +3262,7 @@ About Us Area CSS
   font-weight: 500;
   display: inline-block;
   margin-bottom: 15px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .about-us-content h3 {
   font-size: 38px;
@@ -3282,7 +3284,7 @@ About Us Area CSS
   margin-bottom: 15px;
   position: relative;
   padding-left: 22px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .about-us-content .list li:last-child {
   margin-bottom: 0;
@@ -3637,7 +3639,7 @@ Pagination CSS
   margin: 0 5px;
   font-size: 15px;
   font-weight: 600;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .pagination-area .page-numbers:hover, .pagination-area .page-numbers.current {
   color: #ebe6dd;
@@ -3678,7 +3680,7 @@ Venue Area CSS
   font-size: 16px;
   font-weight: 500;
   color: #e84abf;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .single-venue:hover {
   transform: translateY(-5px);
@@ -3864,7 +3866,7 @@ Speakers Details Area CSS
   color: #e84abf;
   font-weight: 500;
   margin-bottom: 20px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
   position: relative;
   padding-left: 28px;
 }
@@ -3990,7 +3992,7 @@ FAQ Area CSS
   margin-bottom: 0;
   border-radius: 0 !important;
   border-bottom: 1px solid #eeeeee !important;
-  font-family: "Salina Trail Bold", serif;
+  font-family: "Mulish", serif;
 }
 .faq-accordion .accordion-item .accordion-button {
   background-color: #ebe6dd;
@@ -4472,7 +4474,7 @@ Blog Details CSS
   margin-right: 20px;
   position: relative;
   padding-left: 20px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .blog-details-desc .article-content .entry-meta li:last-child {
   margin-right: 0;
@@ -4515,7 +4517,7 @@ Blog Details CSS
   color: #393333;
   font-size: 16px;
   font-weight: 500;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .blog-details-desc .article-content .wp-block-gallery {
   margin-top: 30px;
@@ -4696,7 +4698,7 @@ Blog Details CSS
   font-size: 15px;
   font-weight: 400;
   outline: 0;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .blog-details-desc .article-leave-comment form .form-group .form-control::placeholder {
   color: #e84abf;
@@ -4754,7 +4756,7 @@ Contact Area CSS
   font-size: 15px;
   font-weight: 400;
   outline: 0;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .contact-form form .form-group .form-control::placeholder {
   color: #e84abf;
@@ -4869,7 +4871,7 @@ Products Area CSS
   color: #e84abf;
   font-weight: 500;
   font-size: 16px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .single-products:hover {
   transform: translateY(-5px);
@@ -5086,7 +5088,7 @@ Checkout Area CSS
   color: #e84abf;
   font-weight: 500;
   font-size: 16px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .user-actions span a {
   display: inline-block;
@@ -5116,7 +5118,7 @@ Checkout Area CSS
   margin-bottom: 10px;
   font-weight: 500;
   font-size: 15px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .billing-details .form-group label .required {
   color: red;
@@ -5132,7 +5134,7 @@ Checkout Area CSS
   padding: 15px;
   font-size: 16px;
   font-weight: 600;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .billing-details .form-group .form-control::placeholder {
   color: #e84abf;
@@ -5163,7 +5165,7 @@ Checkout Area CSS
   left: -2px;
   top: 0;
   font-weight: 500;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .billing-details .col-lg-12:last-child .form-group {
   margin-bottom: 0;
@@ -5196,7 +5198,7 @@ Checkout Area CSS
   white-space: nowrap;
   font-size: 16px;
   font-weight: 500;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .order-details .order-table table tbody tr td {
   vertical-align: middle;
@@ -5209,7 +5211,7 @@ Checkout Area CSS
   padding-right: 20px;
   padding-top: 15px;
   padding-bottom: 15px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .order-details .order-table table tbody tr td.product-name a {
   display: inline-block;
@@ -5231,7 +5233,7 @@ Checkout Area CSS
   padding: 30px;
 }
 .order-details .payment-box .payment-method p {
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .order-details .payment-box .payment-method p [type=radio]:checked, .order-details .payment-box .payment-method p [type=radio]:not(:checked) {
   display: none;
@@ -5499,7 +5501,7 @@ Products Details CSS
   position: relative;
   top: -2px;
   font-weight: 500;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .products-details-desc .products-review .rating-count:hover {
   color: #e84abf;
@@ -5523,7 +5525,7 @@ Products Details CSS
 .products-details-desc p span {
   color: #393333;
   font-weight: 500;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .products-details-desc .products-add-to-cart .input-counter {
   max-width: 120px;
@@ -5593,13 +5595,13 @@ Products Details CSS
 .products-details-desc .products-info li span {
   color: #393333;
   font-weight: 500;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .products-details-desc .products-info li a {
   display: inline-block;
   font-weight: 400;
   color: #e84abf;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
   position: absolute;
   left: 180px;
 }
@@ -5652,7 +5654,7 @@ Products Details CSS
   font-weight: 500;
   color: #e84abf;
   transition: 0.6s;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
   border-radius: 5px;
 }
 .products-details-tabs .nav .nav-item .nav-link:hover, .products-details-tabs .nav .nav-item .nav-link.active {
@@ -5713,7 +5715,7 @@ Products Details CSS
   color: #e84abf;
   font-weight: 400;
   font-size: 16px;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .products-details-tabs .tab-content .tab-pane .products-review-form {
   margin-top: 35px;
@@ -5743,7 +5745,7 @@ Products Details CSS
   font-size: 15px;
   font-weight: 400;
   outline: 0;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
 }
 .products-details-tabs .tab-content .tab-pane .products-review-form .review-form form .form-group .form-control::placeholder {
   color: #e84abf;
@@ -6003,7 +6005,7 @@ Sidebar Widget Area CSS
   list-style-type: none;
   font-size: 16px;
   font-weight: 500;
-  font-family: "eckmannpsych-small", sans-serif;
+  font-family: "ClashDisplay-Bold", sans-serif;
   margin-bottom: 15px;
   position: relative;
   padding-left: 20px;
@@ -6139,7 +6141,7 @@ Copy Right Area CSS
   padding-top: 35px;
   padding-bottom: 35px;
   background-color: #c2e800;
-  font-family: "Salina Trail Bold", serif;
+  font-family: "Mulish", serif;
 }
 .copyright-area .copyright-area-content {
   display: flex;
@@ -6151,7 +6153,7 @@ Copy Right Area CSS
   z-index: 100;
 }
 .copyright-area .copyright-area-content p {
-  font-family: "Salina Trail Bold", serif;
+  font-family: "Mulish", serif;
   color: #e84abf;
   z-index: 100;
 }
@@ -6287,11 +6289,11 @@ Go Top CSS
 }
 .vacature-details-area .vacature-details-desc h1, .vacature-details-area .vacature-details-desc h2, .vacature-details-area .vacature-details-desc h3, .vacature-details-area .vacature-details-desc h4, .vacature-details-area .vacature-details-desc h5 {
   color: #6b0f54;
-  font-family: "Salina Trail Bold", serif;
+  font-family: "Mulish", serif;
 }
 .vacature-details-area .vacature-details-desc p {
   color: #69590f;
-  font-family: "Salina Trail Bold", serif;
+  font-family: "Mulish", serif;
 }
 
 /*# sourceMappingURL=style.css.map */
