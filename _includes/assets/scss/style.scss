@@ -62,9 +62,13 @@ This files table contents are outlined below>>>>>
 /*================================================
 Default CSS
 =================================================*/
+@import url('../css/clash-display.css');
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 @font-face {
     font-family: 'Salina Trail Bold';
@@ -92,8 +96,8 @@ $como-groen-dark: #69590f;
 $ultra-zwart: #393333;
 $partytent-wit: #ebe6dd;
 
-$main-font-family: 'Salina Trail Bold', serif;
-$heading-font-family: 'eckmannpsych-small', sans-serif;
+$main-font-family: 'Mulish', serif;
+$heading-font-family: 'ClashDisplay-Bold', sans-serif;
 $main-color: $stef-magenta;
 $optional-color: $como-groen;
 $white-color: $partytent-wit;
