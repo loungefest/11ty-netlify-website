@@ -1,7 +1,7 @@
 ---
 name: PARKER FANS
 genre: Indie Boogie Woogie
-day: T.B.A.
+day: zaterdag
 time: T.B.A.
 youtube: https://www.youtube.com/watch?v=LXu3ZjGJs8Y
 image: /static/img/by-sophie-korterus-korting-1-.jpg
