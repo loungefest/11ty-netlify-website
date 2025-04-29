@@ -1,5 +1,5 @@
 ---
-name: Born A Tribe
+name: BORN A TRIBE
 genre: Reggae
 day: vrijdag
 time: t.b.d.
