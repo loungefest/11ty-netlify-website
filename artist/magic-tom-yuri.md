@@ -1,7 +1,7 @@
 ---
 name: MAGIC TOM & YURI
 genre: Theater
-day: T.B.A.
+day: zaterdag
 time: T.B.A.
 youtube: https://www.youtube.com/watch?v=xEmLDl07czw
 image: /static/img/foto_duo.jpg
