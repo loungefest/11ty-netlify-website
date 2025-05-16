@@ -2,7 +2,7 @@
 name: THE VICES
 genre: Alternative rock
 day: vrijdag
-time: 22:15 - 22:30
+time: 22:15 - 23:30
 youtube: https://www.youtube.com/watch?v=n8UYOSiuFY0
 image: /static/img/vices_10_klein.jpg
 ---
