@@ -2,7 +2,7 @@
 name: ANNIE ALCOHOL
 genre: theater
 day: zaterdag
-time: t.b.d.
+time: 15:00-15:30, 16:30-17:00
 youtube: https://www.youtube.com/watch?v=GArMcgqB7ZQ
 image: /static/img/annie_alcohol.jpg
 ---
