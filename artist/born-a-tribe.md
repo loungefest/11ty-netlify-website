@@ -2,7 +2,7 @@
 name: BORN A TRIBE
 genre: Reggae
 day: vrijdag
-time: t.b.d.
+time: 18:45 - 19:45
 youtube: https://www.youtube.com/watch?v=1twhFAnVQPs&pp=ygUMYm9ybiBhIHRyaWJl
 image: /static/img/small.jpg
 ---
