@@ -2,7 +2,7 @@
 name: HEATH
 genre: psychedelische rock
 day: zaterdag
-time: T.B.A
+time: 17:30 - 18:30
 youtube: https://www.youtube.com/watch?v=coaucBeYWc0
 image: /static/img/photo3-b-w-by-philine-van-den-hul.png
 ---
