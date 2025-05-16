@@ -2,7 +2,7 @@
 name: BERT HANA
 genre: theater
 day: zaterdag
-time: t.b.d.
+time: 13:30-15:00
 youtube: https://www.youtube.com/watch?v=GArMcgqB7ZQ
 image: /static/img/bert_hana.jpg
 ---
