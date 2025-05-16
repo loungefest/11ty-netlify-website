@@ -1,8 +1,8 @@
 ---
 name: ANTJE KROOK
-genre: Live act, reggae, ska, nederpop
+genre: Live act, reggae, ska, nederpop, Op 't Randje
 day: zaterdag
-time: t.b.d.
+time: 15:30-16:30
 youtube: https://www.youtube.com/watch?v=qCienA2nFYQ
 image: /static/img/antje_krook.jpg
 ---
