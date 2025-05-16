@@ -2,7 +2,7 @@
 name: SHANTEL
 genre: Balkan
 day: zaterdag
-time: n.t.b.
+time: 22:15 - 23:30
 youtube: https://www.youtube.com/watch?v=w0wgBcHsuHQ&pp=0gcJCdgAo7VqN5tD
 image: /static/img/shantel_bco_haraldhschroeder_small.jpg
 ---
