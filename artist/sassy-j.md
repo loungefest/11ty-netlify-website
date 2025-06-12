@@ -1,5 +1,5 @@
 ---
-name: Sassy J
+name: SASSY J
 genre: Disco
 day: zaterdag
 time: 18:00 - 20:00
