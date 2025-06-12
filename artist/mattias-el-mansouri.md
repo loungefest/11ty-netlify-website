@@ -1,5 +1,5 @@
 ---
-name: Mattias El Mansouri
+name: MATTIAS EL MANSOURI
 genre: disco
 day: zaterdag
 time: 20:00 - 22:00
