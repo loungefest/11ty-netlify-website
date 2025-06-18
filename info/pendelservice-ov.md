@@ -19,8 +19,7 @@ title: PENDELSERVICE & OV
 ## 
 Vertrektijden op zaterdag:
 
-Vertrek vanaf Leiden Centraal: 13:35 – 14:35 – 15:35 – 16:35
-
-Vertrek vanaf Loungefest: 21:00 – 22:00 – 23:00 – 00:00
+* Vertrek vanaf Leiden Centraal: 13:35 – 14:35 – 15:35 – 16:35
+* Vertrek vanaf Loungefest: 21:00 – 22:00 – 23:00 – 00:00
 
 ![centrumzijde Leiden Centraal ](/static/img/plek-pendelbus.jpg)
