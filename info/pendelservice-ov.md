@@ -12,7 +12,7 @@ title: PENDELSERVICE & OV
 # Route 2: Leiden Centraal Station (centrumzijde, zie foto onderaan) – Loungefest
 
 * Alleen op zaterdag 19 juli
-* Eerste vertrek vanaf Leiden: 13:20 uur
+* Eerste vertrek vanaf Leiden: 13:35
 * Geen tussenstops
 * Reistijd: ca. 25 minuten
 
