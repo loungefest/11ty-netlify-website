@@ -1,5 +1,5 @@
 ---
-name: HAUSMAGGER
+name: HAUSMAGGER 3.0
 genre: theater
 day: zaterdag
 time: 19:45 - 20:45
