@@ -1,5 +1,5 @@
 ---
-name: SHANTEL
+name: "SHANTEL "
 genre: Balkan
 day: zaterdag
 time: 22:15 - 23:30
