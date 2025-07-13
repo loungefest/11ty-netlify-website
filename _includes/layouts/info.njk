@@ -38,3 +38,79 @@ section: info
     </div>
 </div>
 <!-- End  FAQ Area -->
+
+<!-- Modal -->
+<div id="imageModal" class="modal">
+    <span class="close">&times;</span>
+    <img class="modal-content" id="modalImg" src="">
+    <a id="downloadBtn" class="download-button" download href="#">Download</a>
+</div>
+
+<style>
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    padding-top: 50px;
+    left: 0; top: 0;
+    width: 100%; height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.9);
+    text-align: center;
+}
+
+.modal-content {
+    max-width: 90%;
+    max-height: 80vh;
+    margin: auto;
+    display: block;
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 25px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.download-button {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+}
+</style>
+
+<script>
+const modal = document.getElementById("imageModal");
+const img = document.querySelector('img[alt="timetable 2025"]');
+const modalImg = document.getElementById("modalImg");
+const downloadBtn = document.getElementById("downloadBtn");
+const closeBtn = document.querySelector(".close");
+
+if (img) {
+    img.style.cursor = "pointer"; // Add pointer cursor
+    img.onclick = function() {
+        modal.style.display = "block";
+        modalImg.src = this.src;
+        downloadBtn.href = this.src;
+    }
+}
+
+closeBtn.onclick = function() {
+    modal.style.display = "none";
+}
+
+window.onclick = function(event) {
+    if (event.target === modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
