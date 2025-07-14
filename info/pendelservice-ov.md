@@ -7,7 +7,7 @@ title: PENDELSERVICE & OV
 * Vrijdag 18 juli vanaf 18:30 uur
 * Zaterdag 19 juli vanaf 13:00 uur
 
-*Let op: De bus vertrekt vanaf Loungefest niet vanaf de parkeerplaats bij Como & Co, maar vanaf de verhoging tussen Boekhorsterweg en Langevelderweg*
+*Let op: De bus vertrekt vanaf de verhoging tussen Boekhorsterweg en Langevelderweg. Niet vanaf de parkeerplaats bij Como & Co.
 
 # Route 2: Leiden Centraal Station (centrumzijde, zie foto onderaan) – Loungefest
 
