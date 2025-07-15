@@ -6,6 +6,7 @@ title: CONTACT
   2211 AL, Noordwijkerhout\
   Mail algemeen: [info@loungefest.nl](mailto:info@loungefest.nl)\
   Mail tickets: [ticketing@loungefest.nl](mailto:ticketing@loungefest.nl)
+  Telefoon: [06-2888 3981](tel:+31628883981)
 * **Financiële zaken:**\
   Naam: Stichting N.Y.C.E.\
   Adres: Leeweg 1, 2211 XZ Noordwijkerhout, Nederland\
