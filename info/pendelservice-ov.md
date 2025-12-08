@@ -4,14 +4,14 @@ title: PENDELSERVICE & OV
 # Route 1: Busstation ‘De Brink’ Noordwijkerhout – Loungefest
 
 * Rijdt continu heen en weer.
-* Vrijdag 18 juli vanaf 18:30 uur
-* Zaterdag 19 juli vanaf 13:00 uur
+* Vrijdag 17 juli vanaf 18:30 uur
+* Zaterdag 18 juli vanaf 13:00 uur
 
 *Let op: De bus vertrekt vanaf de verhoging tussen Boekhorsterweg en Langevelderweg. Niet vanaf de parkeerplaats bij Como & Co.
 
 # Route 2: Leiden Centraal Station (centrumzijde, zie foto onderaan) – Loungefest
 
-* Alleen op zaterdag 19 juli
+* Alleen op zaterdag 18 juli
 * Eerste vertrek vanaf Leiden: 13:35
 * Geen tussenstops
 * Reistijd: ca. 25 minuten

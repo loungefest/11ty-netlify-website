@@ -1,7 +1,7 @@
 ---
 title: BESCHRIJVING
 ---
-Loungefest is een tweedaags festival (18 & 19 juli 2025)
+Loungefest is een tweedaags festival (17 & 18 juli 2026)
 
-1. O﻿p 18 juli: evenemtenterrein deels geopend
-2. O﻿p 19 juli: evenemtenterrein volledig geopend
+1. O﻿p 17 juli: evenemtenterrein deels geopend
+2. O﻿p 18 juli: evenemtenterrein volledig geopend
