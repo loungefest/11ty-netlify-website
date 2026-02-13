@@ -9,7 +9,7 @@ Heb je passie voor events, netwerken en merken? Altijd al willen meebouwen aan e
 
 ## Quote van onze huidige sponsorboy - Ivar
 
-"De organiserol voor Loungefest kwam per toeval in mijn leven. In eerste instantie had ik twijfel; je steekt er aanzienlijk tijd in op vrijwillige basis. Uiteindelijk heb ik het toch gedaan en dat is een van de beste keuzes uit mijn leven geweest. Ik heb mij enorm kunnen ontplooien op sociaal vlak én op zakelijk vlak. Ik heb veel mooie bedrijven gezien en fijne contacten gecreëerd met ondernemers. En bovenal staat natuurlijk het festival zelf. De op- en afbouw en de draaidagen zijn een groot feest. Ik kan eerlijk zeggen dat ik zelf vrienden voor het leven heb gemaakt, en daar ben ik heel dankbaar voor! En nu tijd, na 6 mooie jaren om het stokje over te dragen"
+"De organisatie-rol voor Loungefest kwam per toeval in mijn leven. In eerste instantie had ik twijfel; je steekt er aanzienlijk tijd in op vrijwillige basis. Uiteindelijk heb ik het toch gedaan en dat is een van de beste keuzes uit mijn leven geweest. Ik heb mij enorm kunnen ontplooien op sociaal vlak én op zakelijk vlak. Ik heb veel mooie bedrijven gezien en fijne contacten gecreëerd met ondernemers. En bovenal staat natuurlijk het festival zelf. De op- en afbouw en de draaidagen zijn een groot feest. Ik kan eerlijk zeggen dat ik zelf vrienden voor het leven heb gemaakt, en daar ben ik heel dankbaar voor! En nu tijd, na 6 mooie jaren om het stokje over te dragen"
 
 ## De rol
 
