@@ -1,8 +1,8 @@
 ---
 name: FLAMINGO HITMIX
 genre: theater
-day: zaterdag
-time: 18:30-19:30
+day: vrijdag
+time: t.b.d.
 youtube: https://www.youtube.com/watch?v=GArMcgqB7ZQ
 image: /static/img/flamingo-hitmix-live-pic-1.jpg
 ---
