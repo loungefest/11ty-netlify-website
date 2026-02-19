@@ -9,4 +9,4 @@ M﻿omenteel hebben wij de onderstaande vacatures:
 2. Organisatielid Horeca
 3. Organisatielid Sponsoring
 
-Meer informatie; [https://www.loungefest.nl/vacatures](https://www.loungefest.nl/vacatures/organisatielid-sponsoring/)
+Meer informatie; [https://www.loungefest.nl/vacatures](https://www.loungefest.nl/vacatures)
