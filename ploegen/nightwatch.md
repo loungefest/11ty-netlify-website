@@ -1,6 +1,6 @@
 ---
 title: NIGHTWATCH
-thumbnail: /static/img/nightwatch3-01.jpg
+thumbnail: /static/img/nightwatch.jpeg
 ---
 Tim, Rintje, Daniël
 Desiree, Roan, Mark, Felix, 
