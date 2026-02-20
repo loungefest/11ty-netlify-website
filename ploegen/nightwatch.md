@@ -2,12 +2,8 @@
 title: NIGHTWATCH
 thumbnail: /static/img/nightwatch3-01.jpg
 ---
-Roan, Tim, Rintje, 
-
-Desiree, Thijs, Daniel, Mike, 
-
-Daan, Mark, Vincent,
-
-R﻿osanne, Maarten, Pepijn
-
-N﻿iels, Leon, Mark
+Tim, Rintje, Daniël
+Desiree, Roan, Mark, Felix, 
+E﻿sther, Kim, Bjørn, Anouk, Pepijn
+A﻿ron Marten, Chiel, Tobias, Sam, 
+A﻿rjan, Mike, Shane, Tim, Thijs, Stan, Jan-Hein, Lara, Sjoerd, Liam
