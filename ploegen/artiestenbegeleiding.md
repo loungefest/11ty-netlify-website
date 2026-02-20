@@ -1,5 +1,5 @@
 ---
-title: Artiestenbegeleiding
+title: ARTIESTENBEGELEIDING
 thumbnail: /static/img/hospitality.jpg
 ---
 Maartje, Lise, N﻿athalie, 
